@@ -1,0 +1,5551 @@
+VALORES ÚNICOS - alunos-ingressantes.csv
+
+Coluna: Sexo
+Total de valores únicos: 3
+Valores únicos:
+  - F
+  - M
+  - N
+
+Coluna: AnoNascimento
+Total de valores únicos: 73
+Valores únicos:
+  - 1992.0
+  - 1982.0
+  - 1981.0
+  - 1983.0
+  - 1984.0
+  - 1986.0
+  - 1988.0
+  - 1987.0
+  - 1991.0
+  - 1990.0
+  - 1989.0
+  - 1993.0
+  - 1974.0
+  - 1968.0
+  - 1985.0
+  - 1994.0
+  - 1979.0
+  - 1963.0
+  - 1977.0
+  - 1978.0
+  - 1953.0
+  - 1969.0
+  - 1962.0
+  - 1976.0
+  - 1995.0
+  - 1973.0
+  - 1980.0
+  - 1996.0
+  - 1975.0
+  - 1972.0
+  - 1971.0
+  - 1997.0
+  - 1998.0
+  - 1999.0
+  - 1957.0
+  - 1966.0
+  - 2000.0
+  - 1970.0
+  - 1967.0
+  - 2001.0
+  - 2002.0
+  - 2003.0
+  - 2004.0
+  - 2005.0
+  - 2006.0
+  - 1965.0
+  - 1954.0
+  - 1964.0
+  - 1956.0
+  - 1961.0
+  - 1952.0
+  - 1958.0
+  - 1959.0
+  - 1955.0
+  - 1947.0
+  - 1946.0
+  - 1960.0
+  - 2022.0
+  - 2007.0
+  - 1944.0
+  - 1951.0
+  - 1949.0
+  - 1950.0
+  - 1948.0
+  - 1945.0
+  - 2008.0
+  - 2017.0
+  - 2196.0
+  - 1940.0
+  - 2024.0
+  - 1941.0
+  - 2010.0
+  - 1935.0
+
+Coluna: Raca
+Total de valores únicos: 8
+Valores únicos:
+  - Branco(a)
+  - Não informado
+  - Pardo(a)
+  - Preto(a)
+  - Amarelo(a)
+  - Indígena
+  - Estudante não quis declarar cor/raça
+  - Informação não disponível
+
+Coluna: Naturalidade
+Total de valores únicos: 4918
+Valores únicos:
+  - Carmo do Paranaíba
+  - Belo Horizonte
+  - Paracatu
+  - Abre Campo
+  - Viçosa
+  - Coronel Fabriciano
+  - Governador Valadares
+  - Santos
+  - Guaraciaba
+  - Ubá
+  - São Paulo
+  - Pirapetinga
+  - São José dos Campos
+  - Piranga
+  - Visconde do Rio Branco
+  - Varginha
+  - Senhora dos Remédios
+  - João Monlevade
+  - Ipatinga
+  - Ponte Nova
+  - Cruz Alta
+  - Juiz de Fora
+  - Timóteo
+  - Niterói
+  - Goiânia
+  - Cachoeiro de Itapemirim
+  - Divinópolis
+  - Uberaba
+  - Congonhas
+  - Cataguases
+  - Ervália
+  - Vazante
+  - Caçapava
+  - Campinas
+  - Taubaté
+  - Vargem Grande do Sul
+  - Dionísio
+  - Carmo
+  - São Gonçalo do Sapucaí
+  - Passa Quatro
+  - Santo Antônio do Grama
+  - Teixeiras
+  - Itamaraju
+  - Cruzília
+  - Guanhães
+  - Boa Esperança
+  - Itamogi
+  - Espera Feliz
+  - Barbacena
+  - São Pedro dos Ferros
+  - Vitória
+  - São João Del-Rei
+  - Ribeirão Preto
+  - Itabira
+  - Lajinha
+  - Caratinga
+  - Conselheiro Lafaiete
+  - Rio de Janeiro
+  - Brasília
+  - Castelo
+  - Unaí
+  - Guiricema
+  - Formiga
+  - Contagem
+  - Florestal
+  - Pará de Minas
+  - Arcos
+  - Pavão
+  - Itaúna
+  - Limoeiro do Norte
+  - Mateus Leme
+  - Curitiba
+  - Passos
+  - Teófilo Otoni
+  - Betim
+  - São Caetano do Sul
+  - Sete Lagoas
+  - Pitangui
+  - Perdões
+  - Montes Claros
+  - Bom Despacho
+  - Taiobeiras
+  - Maravilhas
+  - Osasco
+  - Cajuri
+  - Leopoldina
+  - Araxá
+  - Inhaúma
+  - Muriaé
+  - Dom Silvério
+  - Águas de Lindóia
+  - Venda Nova do Imigrante
+  - Campanha
+  - Uberlândia
+  - Ouro Preto
+  - São Roque
+  - Pirapora
+  - Ouro Branco
+  - Alvinópolis
+  - Itaperuna
+  - Carangola
+  - Santa Bárbara
+  - Tauá
+  - Manhuaçu
+  - São Mateus
+  - Ribeirão Pires
+  - Manhumirim
+  - Raul Soares
+  - São Carlos
+  - Limeira
+  - Sabará
+  - Vila Velha
+  - Martinho Campos
+  - Arujá
+  - Resende Costa
+  - Ibirité
+  - Pindamonhangaba
+  - Franca
+  - Taquaritinga
+  - Florianópolis
+  - Rocha
+  - Jequitinhonha
+  - Jaguaraçu
+  - Caracas
+  - Linhares
+  - Curvelo
+  - Quito
+  - São João Nepomuceno
+  - Inhapim
+  - Paula Cândido
+  - Lafayette Indiana
+  - Três Corações
+  - Virginópolis
+  - Santo André
+  - Três Coraçoes
+  - Rio Casca
+  - Guaraí
+  - Diamantina
+  - São Francisco
+  - Ibiá
+  - Foz do Iguaçu
+  - Carbonita
+  - Guaratinguetá
+  - Gandu
+  - Carmo da Mata
+  - São João Del Rei
+  - Entre Rios de Minas
+  - Pompéu
+  - Jacareí
+  - Aracruz
+  - Brumadinho
+  - Itaobim
+  - Matozinhos
+  - Resplendor
+  - Barão de Cocais
+  - Espinosa
+  - Montalvânia
+  - Lorena
+  - Nova Lima
+  - Esmeraldas
+  - Nova Serrana
+  - Nishio
+  - Nova Era
+  - Ouricuri
+  - Manaus
+  - São Bernardo do Campo
+  - Patos de Minas
+  - Guarani
+  - Coimbra
+  - Guarapari
+  - Parnaíba
+  - Novo Cruzeiro
+  - Brumado
+  - Bambuí
+  - Piracicaba
+  - Santa Maria do Suaçuí
+  - Marabá
+  - Serro
+  - Pouso Alegre
+  - Itabirito
+  - Sertãozinho
+  - Paineiras
+  - Sarzedo
+  - Virgem da Lapa
+  - Guanambi
+  - Jardim
+  - Várzea da Palma
+  - Diadema
+  - Princesa Isabel
+  - Três Marias
+  - Jundiaí
+  - Rio Manso
+  - Parauapebas
+  - Jaci
+  - Volta Redonda
+  - Resende
+  - Nova Friburgo
+  - São Miguel do Anta
+  - Palmas
+  - Joaquim Felício
+  - Itaituba
+  - Petrópolis
+  - Tocantins
+  - Rio das Ostras
+  - Presidente Bernardes
+  - Caparaó
+  - Eugenópolis
+  - São Gonçalo
+  - Teresópolis
+  - Rio Piracicaba
+  - Itaguara
+  - Ferros
+  - Barreiras
+  - Carmópolis de Minas
+  - Estrela do Indaiá
+  - Nyack
+  - Campos dos Goytacazes
+  - Poços de Caldas
+  - Itauna
+  - Ribeirão das Neves
+  - Paraopeba
+  - Itapecerica
+  - Papagaios
+  - Carandai
+  - Água Boa
+  - Suzano
+  - Santo Antônio de Pádua
+  - Porto Firme
+  - Natal
+  - Iúna
+  - Machado
+  - Sabinópolis
+  - Alegre
+  - Belém
+  - Marília
+  - Mariana
+  - Nova VIçosa
+  - Minduri
+  - Nova Venécia
+  - São João da Barra
+  - São Gonçalo do Pará
+  - Teresina
+  - Dourados
+  - Juatuba
+  - Felixlândia
+  - Caetanópolis
+  - Campo Belo
+  - Canaã
+  - Cascavel
+  - Santa Cruz do Escalvado
+  - Porteirinha
+  - Bocaiúva
+  - Cláudio
+  - Pedro Leopoldo
+  - Itamarandiba
+  - Para de Minas
+  - Porto Velho
+  - Registro
+  - Porto Seguro
+  - Itajubá
+  - São Domingos do Prata
+  - Presidente Olegário
+  - Conceição dos Ouros
+  - Fortaleza
+  - Tucuruí
+  - Duas Barras
+  - Estrela Dalva
+  - Carlos Chagas
+  - Astolfo Dutra
+  - Novo Repartimento
+  - Bom Jesus do Itabapoana
+  - São José do Rio Preto
+  - Araraquara
+  - Miraí
+  - Caeté
+  - Igaratinga
+  - Ponto dos Volantes
+  - Tatui
+  - Matão
+  - Fujisawa-Shi - Kanagawa
+  - Viradouro
+  - Capitão Eneas
+  - Capitão Enéas
+  - Mauá
+  - Cambuí
+  - Janaúba
+  - Manhuaçú
+  - Ilhéus
+  - Uba
+  - Borda da Mata
+  - Muriae
+  - Buritizeiro
+  - Mococa
+  - Muqui
+  - Bragança Paulista
+  - Não Informado
+  - Lagoa da Prata
+  - Itambacuri
+  - Pará de Minas-Mg
+  - São Gotardo
+  - Sorocaba
+  - Dores do Indaiá
+  - Uberlandia
+  - Rio Paranaíba
+  - Patrocínio
+  - Piumhi
+  - Campo Grande
+  - Angra dos Reis
+  - Coromandel
+  - Dores de Campos
+  - Itatiba
+  - Carmo do Cajuru
+  - Mantena
+  - Divinopolis
+  - Cruzilia
+  - Mogi Mirim
+  - Itumbiara
+  - Campos do Jordão
+  - Botuporã
+  - Guarulhos
+  - Coração de Jesus
+  - Ituiutaba
+  - Sacramento
+  - Varzea da Palma
+  - João Pinheiro
+  - Cristais
+  - Matutina
+  - Lagoa Formosa
+  - Guaxupé
+  - Capitólio
+  - Santa Rita do Passa Quatro
+  - Timoteo
+  - Botucatu
+  - Silvianópolis
+  - Caconde
+  - Campo Formoso
+  - Serra do Salitre
+  - Mogi-Mirim
+  - São Domingos das Dores
+  - Trizidela do Vale
+  - Cássia
+  - Romaria
+  - Buritis
+  - Arinos
+  - Bocaiuva
+  - Santa Luzia
+  - Lavras
+  - Perdizes
+  - Tiros
+  - Cianorte
+  - Cunha
+  - Campos Altos
+  - Americana
+  - Maringá
+  - Jequié
+  - Jacutinga
+  - Lagoa Santa
+  - Heliodora
+  - Goiania
+  - Franco da Rocha
+  - Barretos
+  - Amparo
+  - Arapuá
+  - Riacho de Santana
+  - Socorro
+  - Irecê
+  - Niteroi
+  - Guimarânia
+  - Jati
+  - Araçatuba
+  - São Simão
+  - Presidente Prudente
+  - Mogi das Cruzes
+  - Novo Hamburgo
+  - Valinhos
+  - Ladainha
+  - Itanhandu
+  - São Gabriel
+  - Turmalina
+  - Elói Mendes
+  - Nepomuceno
+  - Malhada
+  - Batatais
+  - Santa Rosa da Serra
+  - Caputira
+  - Poção de Pedras
+  - Tarumirim
+  - Ibia
+  - Vespasiano
+  - Teixeira de Freitas
+  - Jaboticabal
+  - Rio Paranaiba
+  - Ipanema
+  - Taboão da Serra
+  - Araras
+  - Salesopolis
+  - Campos Gerais
+  - Luz
+  - Timbauba
+  - Lagamar
+  - Patrocinio
+  - São Joaquim da Barra
+  - Atibaia
+  - Anápolis
+  - São Sebastião do Paraíso
+  - Porto Ferreira
+  - São João do IVaí
+  - Alto Rio Doce
+  - Toyota
+  - Espírito Santo do Pinhal
+  - Bambui
+  - Jandaia do Sul
+  - Brotas de Macaubas
+  - Aparecida de Goiânia
+  - Presidente Olegario
+  - Ariquemes
+  - Cedro do Abaeté
+  - São Bento do Sapucaí
+  - Pedreiras
+  - São João da Ponte
+  - Anapólis
+  - Pirassununga
+  - Piraí do Sul
+  - Januária
+  - Carmo do Paranaiba
+  - Formosa
+  - Assis
+  - Cornélio Procópio
+  - Rio Vermelho
+  - Padre Bernardo
+  - Palmeira dos Indios
+  - Araguari
+  - Westminster - Londres
+  - Monte Carmelo
+  - Jurema
+  - Vitória da Conquista
+  - São Gonçalo dos Campos
+  - Ubatuba
+  - Ipastinga
+  - Paragominas
+  - Marituba
+  - Governador Luiz Rocha
+  - Araponga
+  - Queimados
+  - São João da Boa VIsta
+  - Paratinga
+  - Almenara
+  - Long Branch
+  - Riachinho
+  - Guaianases - Sp
+  - Long Branch Eua
+  - Barueri
+  - Itapecerica da Serra
+  - Central
+  - Guarujá
+  - Além Paraíba
+  - Colatina
+  - Rio Novo do Sul
+  - Urucânia
+  - Camaquã
+  - Porto Feliz
+  - Barra Mansa
+  - Três Rios
+  - Santa Margarida
+  - Nazareno
+  - Eunápólis
+  - Ibatiba
+  - Alfredo Chaves
+  - Belo Vale
+  - Boston
+  - Bissau - S. A. Bissau
+  - Peabiru
+  - Mirassol
+  - Itaú de Minas
+  - Macaé
+  - Vassouras
+  - Mãe do Rio
+  - Miguel Pereira
+  - Ouro Fino
+  - Quirinópolis
+  - Peçanha
+  - Sinop
+  - Cruzeiro
+  - Araçuaí
+  - São Brás do Suaçuí
+  - Itaocara
+  - Maria da Fé
+  - Baependi
+  - Serrania
+  - Dores do Turvo
+  - Lisboa
+  - Porto Alegre
+  - Libreville
+  - Conceição de Ipanema
+  - Eunápolis
+  - Bom Jardim
+  - Maceió
+  - Duque de Caxias
+  - Cariacica
+  - Asunción
+  - Casa Branca
+  - Abadia dos Dourados
+  - Três Pontas
+  - Iraí de Minas
+  - Campina Verde
+  - Bebedouro
+  - Santa VItória
+  - Paraguacu
+  - Santa Cruz das Palmeiras
+  - Virgolândia
+  - Capelinha
+  - Botumirim
+  - San Remo
+  - Rondonópolis
+  - Tangará da Serra
+  - Santo Ângelo
+  - Fernandópolis
+  - Campo Erê
+  - Prados
+  - Nova Iguaçu
+  - Ilhabela
+  - Mutum
+  - Cachoeira Alta
+  - Aimorés
+  - Santos Dumont
+  - Entre Rios
+  - Itirapina
+  - Araguaína
+  - Ponta Grossa
+  - Paraiso do Tocantins
+  - Rio Verde
+  - São Lourenço
+  - Catanduva
+  - São Tiago
+  - Barra de São Francisco
+  - Tupã
+  - Valença
+  - Mimoso do Sul
+  - Santa Rosa de VIterbo
+  - Cuiabá
+  - Tiradentes
+  - Urânia
+  - Ceres
+  - Piranguinho
+  - Guanhaes
+  - Aragarças
+  - São Luís
+  - Capanema
+  - Carmésia
+  - Nova Resende
+  - Bicas
+  - Salinas
+  - Machacalis
+  - Córrego Novo
+  - Ibertioga
+  - Traipu
+  - Barroso
+  - São Roque de Minas
+  - São Gabriel da Palha
+  - Piedade de Ponte Nova
+  - Rio Espera
+  - Abaeté
+  - Estrela do Norte
+  - Bonfinópolis de Minas
+  - Cachoeira Paulista
+  - Tupaciguara
+  - Rio Pomba
+  - Aichi-Ken
+  - Recife
+  - Inhumas
+  - Capinópolis
+  - Goianésia
+  - Bueno Brandão
+  - Jerônimo Monteiro
+  - Areal
+  - Brás Pires
+  - Coxim
+  - Varzelândia
+  - Iguatama
+  - Santa Maria do Salto
+  - Berilo
+  - Itapetinga
+  - Santa Helena de Goiás
+  - Lucélia
+  - São José da Varginha
+  - Ji-Parana
+  - Miradouro
+  - Cacoal
+  - Ibirá
+  - Guarapuava
+  - Caçador
+  - Moscou
+  - Piedade dos Gerais
+  - Caculé
+  - Conceição do Rio Verde
+  - Várzea Paulista
+  - Ivinhema
+  - Senador Firmino
+  - Ecoporanga
+  - Aracaju
+  - Igarapava
+  - Petrolina
+  - Aiuruoca
+  - Apucarana
+  - Salvador
+  - Afonso Cláudio
+  - Cruzeiro da Fortaleza
+  - Virginopolis
+  - Nanuque
+  - Pedra Azul
+  - Paracambi
+  - Serra
+  - Barra do Garças
+  - Niquelândia
+  - Porciúncula
+  - Planaltina
+  - Itarana
+  - Marliéria
+  - Angers
+  - Piatã
+  - Monte Alto
+  - Jaú
+  - Alto Jequitibá
+  - Araruama
+  - Mercês
+  - Samba
+  - Marechal Candido Rondon
+  - Caxambu
+  - Turiaçu
+  - Porto Alegre do Norte
+  - Unai
+  - Candelária
+  - Descoberto
+  - Barra do Bugres
+  - Ataléia
+  - Ribeira do Pombal
+  - Cristalina
+  - Marialva
+  - Cornelio Procopio
+  - Pedregulho
+  - Xinguara
+  - Iturama
+  - Ituverava
+  - Jacarezinho
+  - Massachusetts
+  - Muniz Freire
+  - Contuboel - Bafatá
+  - Júlio de Castilhos
+  - Francisco Beltrão
+  - Constantina
+  - Rondon do Pará
+  - Orlândia
+  - João Neiva
+  - Três Lagoas
+  - Joao Monlevade
+  - Vitoria
+  - Alpinópolis
+  - Madri
+  - Silveirânia
+  - Pato Branco
+  - Matipó
+  - Cardoso
+  - Uster - Zurich
+  - Campo Mourão
+  - Iporá
+  - Realeza
+  - Santa Teresa
+  - Divino
+  - Jussara
+  - Edéia
+  - Divinolandia de Minas
+  - São Gabriel do Oeste
+  - Pimenta Bueno
+  - Ananas
+  - Mar de Espanha
+  - Alfenas
+  - Canarana
+  - Iapu
+  - Anhembi
+  - São Gonçalo do Rio Abaixo
+  - Itapetininga
+  - Santa Cruz do Rio Pardo
+  - San Diego
+  - Jaíba
+  - Toledo
+  - Vlaardingem
+  - Faria Lemos
+  - Corumbá
+  - Camacho
+  - Acreuna
+  - Paulínia
+  - Bocaína
+  - Guaçuí
+  - Cajamar
+  - Bissau - Bissau
+  - Coluna
+  - Vila Rica
+  - Bocaina de Minas
+  - Barreirinhas
+  - São José do Rio Pardo
+  - Encruzilhada
+  - Dom Silverio
+  - Tombos
+  - Araújos
+  - Gurupi
+  - Morrinhos
+  - Ourilândia do Norte
+  - Pedro Canário
+  - Jaciara
+  - Ipirá
+  - Estiva
+  - Goioere
+  - Pancas
+  - Cabo Verde
+  - Corupá
+  - Juruti
+  - Prado
+  - Andradas
+  - Nova Odessa
+  - Feira de Santana
+  - Primavera do Leste
+  - Posse
+  - Umuarama
+  - Pilar do Sul
+  - São João de Meriti
+  - Virgínia
+  - Galiléia
+  - Castanhal
+  - Londrina
+  - Penedo
+  - São João Evangelista
+  - Ouro Preto do Oeste
+  - Lassance
+  - Paramirim
+  - João Pessoa
+  - Santiago - Chile
+  - Senador Cortes
+  - Joanópolis
+  - Corinto
+  - Angelândia
+  - Brasilia
+  - Vitorino Freire
+  - Pitangueiras
+  - Penápolis
+  - Águas Formosas
+  - Santa Juliana
+  - Santa Maria do Suaçui
+  - Minas Novas
+  - Itú
+  - Campo Novo do Parecis
+  - Jacobina
+  - Niteroí
+  - Mucuri
+  - Itapemirim
+  - Ibaiti
+  - Araguaina
+  - Marechal Floriano
+  - Diamantino
+  - Santa Isabel
+  - Santa Maria de Jetibá
+  - Mirandópolis
+  - Divinolândia de Minas
+  - Braunas
+  - Paraíba do Sul
+  - Itaberaí
+  - Teutônia
+  - Catalão
+  - São Marcos
+  - Miracema
+  - Recreio
+  - Colina
+  - Apiacá
+  - Vargem Alta
+  - Seabra
+  - Redenção
+  - Cáceres
+  - Guaratinga
+  - Ibiraci
+  - Sorriso
+  - Amparo da Serra
+  - Padre Paraíso
+  - Jataí
+  - Itabuna
+  - São Sebastião da Vargem Alegre
+  - Cândido de Abreu
+  - Maracás
+  - Candiba
+  - Guararapes
+  - Pains
+  - Olindina
+  - São José do Calçado
+  - Alfredo Vasconcelos
+  - Passo Fundo
+  - Cajuru
+  - Afonso Claudio
+  - Brasilia de Minas
+  - Minaçu
+  - Lima Duarte
+  - Carandaí
+  - Medina
+  - São Pedro
+  - Dias D'Avila
+  - Manhuacu
+  - Mineiros
+  - Campestre
+  - Jardinópolis
+  - Pindobaçu
+  - Araguatins
+  - Luziânia
+  - Descalvado
+  - Mambaí
+  - Santarém
+  - Bauru
+  - Ibiassuçê
+  - Acreúna
+  - Oliveira
+  - Boa VIsta
+  - Rio Claro
+  - Framingham
+  - Pontes e Lacerda
+  - Sapiranga
+  - Brasnorte
+  - Quatis
+  - Bom Jesus da Lapa
+  - Coroatá
+  - Nova Andradina
+  - Chapecó
+  - Nova Mutum
+  - Quatiguá
+  - Ivaí
+  - Fort Lauderdale
+  - Arapongas
+  - Cotia
+  - Tucumã
+  - Utinga
+  - Ndieyene Sirakh
+  - Timbaúba
+  - Indiara
+  - Pinheiros
+  - Palmeirópolis
+  - Piraúba
+  - Lontra
+  - Maiquinique
+  - Uruaçu
+  - Avaré
+  - Aracajú
+  - Ribeirao Preto
+  - Joao Pessoa
+  - Igrapiuna
+  - Dores do Indaia
+  - Pratápolis
+  - Andrelândia
+  - Concórdia
+  - Estrela
+  - Luziania
+  - Pinhais
+  - Balsas
+  - Cedro
+  - Macapá
+  - Pedro Afonso
+  - Itaguaçu
+  - Virginopólis
+  - Dom Eliseu
+  - Santarem
+  - Tremedal
+  - Manacapuru
+  - Itacarambi
+  - Correntina
+  - Guarantã do Norte
+  - Jaraguá do Sul
+  - Itacajá
+  - Nova Xavantina
+  - Paranavaí
+  - Jussari
+  - Nortelândia
+  - Piedade do Rio Grande
+  - Caetité
+  - Ji-Paraná
+  - Paulo Afonso
+  - Piumhí
+  - Caldas Novas
+  - Lucas do Rio Verde
+  - Itapevi
+  - São Borja
+  - Alta Floresta
+  - São Miguel do Iguaçu
+  - Querência
+  - Blumenau
+  - Bom Jesus do Galho
+  - Valparaíso
+  - Chapada Gaúcha
+  - Ervalia
+  - Ipameri
+  - São Miguel Arcanjo
+  - Formoso
+  - Conselheiro Pena
+  - São Francisco de Itabapoana
+  - Balneário Camboriú
+  - Arapiraca
+  - São Miguel dos Campos
+  - Itororó
+  - República do Congo
+  - Camp-Perrin
+  - Gonçalves Dias
+  - Baianópolis
+  - Chita  -  Aichi
+  - Ibicuí
+  - Capitão Leônidas Marques
+  - Camamu
+  - Mucurici
+  - Serra Talhada
+  - Vianópolis
+  - Açucena
+  - Brasília de Minas
+  - Vieiras
+  - Leandro Ferreira
+  - Paraty
+  - Pompeu
+  - Barcarena
+  - Jales
+  - Santa Cruz de La Sierra
+  - Soure
+  - Santana dos Montes
+  - São Felipe D'Oeste
+  - Amambai
+  - São Luis
+  - Flores de Goiás
+  - Fruta de Leite
+  - Criciúma
+  - Paraíso do Tocantins
+  - São Geraldo
+  - Porto Nacional
+  - São Miguel do Araguaia
+  - Uruará
+  - Esplanada
+  - Cotonou
+  - Delmas
+  - Vilhena
+  - Crato
+  - Ipiaú
+  - Joinville
+  - Laranjeiras do Sul
+  - Luís Eduardo Magalhães
+  - Marapanim
+  - Matupá
+  - Juara
+  - Pinheiro
+  - Cruz das Almas
+  - Buru
+  - Mg
+  - Tuntum
+  - Camanducaia
+  - Leme
+  - Dourado
+  - Belo Horizonte - Mg
+  - Altamira
+  - Belo Horizonte -Mg
+  - Lubango - Angola
+  - Lafayette-Indiana
+  - Guapé
+  - Luanda
+  - Maputo - Maputo
+  - Santa Rita do Sapucaí
+  - Montanha
+  - Cana Verde
+  - Itanhém
+  - Zama - Kanagawa
+  - Juazeiro
+  - Brazlândia
+  - Guaçui
+  - Piraí
+  - Alto Araguaia
+  - Santa Fé do Sul
+  - Laje do Muriaé
+  - Maputo
+  - Huancavelica/Huancavelica
+  - Huancayo
+  - Catas Altas
+  - Juazeiro do Norte
+  - Jaguariúna
+  - Poçoes
+  - Trindade
+  - Nossa Senhora da Luz/São VIcen
+  - Baney-Bioko Norte
+  - Cícero Dantas
+  - Luis Eduardo Magalhães
+  - Bonfim
+  - Cambridge, Massachusetts
+  - Ferraz de Vasconcelos
+  - Brockton
+  - Almada
+  - Morro do Chapéu
+  - Conceição de Macabu
+  - Varre-Sai
+  - Vinhedo
+  - Cabo Frio
+  - Anchieta
+  - São José do Goiabal
+  - Alvorada de Minas
+  - Itagi
+  - Medeiros Neto
+  - Guidoval
+  - São José do Jacuri
+  - Jaboatão dos Guararapes
+  - Açailândia
+  - Telêmaco Borba
+  - Guaíra
+  - Jeceaba
+  - Nova York
+  - Pereira Barreto
+  - Rio Branco
+  - Magé
+  - Assomada - Cabo Verde
+  - São Félix do Xingu
+  - Benguela - Lobito
+  - Berlim - Alemanha
+  - Itambacurí
+  - Santo Antonio do Gloria
+  - Ames - Iowa
+  - Ribeiro de Campo de Cão
+  - Itaquaquecetuba
+  - Palma
+  - Pedro Juan Caballero
+  - Porto Principe
+  - Dracena
+  - Nilópolis
+  - Piedade
+  - Nossa Senhora da Graça
+  - Rio Bananal
+  - Gaspar
+  - São Sebastião
+  - Januaria
+  - Port-Gentil
+  - Section Nord de P-Au-P
+  - Itabirinha
+  - Mossoró - Rn
+  - Colatina-Es
+  - Senhor do Bonfim
+  - Cataguases-Mg
+  - Joaçaba
+  - Acajutiba
+  - Carmo do Rio Claro
+  - Oratórios
+  - Araxa
+  - Arequipa
+  - Ipupiara
+  - Maracaju
+  - Barra do Piraí
+  - São Fidélis
+  - Caraguatatuba
+  - Belford Roxo
+  - Várzea Alegre
+  - Jacinto
+  - Itajuba
+  - Praia Grande
+  - Londres
+  - Toyota - Japão
+  - Jaru
+  - São João
+  - Coroaci
+  - Sucre
+  - Cubatão
+  - Cordeiro
+  - Caruaru
+  - Petrolina de Goias
+  - Macae
+  - Domingos Martins
+  - Ferreira Gomes
+  - Carinhanha
+  - São Sebastião do Alto
+  - Araçuai
+  - Ouidah
+  - Macaúbas
+  - Hackensack
+  - Cabo-Verdiana
+  - Mateus Leme - Mg
+  - João Dourado
+  - Aimores
+  - Rubelita
+  - São Romão
+  - Caico
+  - São VIcente
+  - Itápolis
+  - Santo Antônio do Monte
+  - Itapuranga
+  - Mogi Guaçu
+  - Gensville
+  - Alto Jequitiba
+  - Cambuci
+  - Santo Antônio do Itambé
+  - Bom Sucesso
+  - São Cristóvão
+  - Carrancas
+  - Presidente Venceslau
+  - Pontalina
+  - Erechim
+  - Açu
+  - São Miguel do Guamá
+  - Indaiatuba
+  - Caete
+  - Itanhaém
+  - Monte Santo de Minas
+  - Votorantim
+  - Rosario da Limeira
+  - Antônio Carlos
+  - Marechal Cândido Rondon
+  - Maricá
+  - Poá
+  - Tailândia
+  - Baruerí
+  - Oriximiná
+  - Peruíbe
+  - Paris - França
+  - Delfim Moreira
+  - Coelho Neto
+  - Barra
+  - Varzea Grande
+  - Ourolandia
+  - Plymouth, Massachusets
+  - Mário Campos
+  - Pedreira
+  - Lamim
+  - Pelotas
+  - Imperatriz
+  - Jau
+  - Vera Cruz
+  - Santana do Manhuaçu
+  - Coqueiral
+  - Telemaco Borba
+  - Joaíma
+  - Currais Novos
+  - Conceição da Barra
+  - Serrinha
+  - Santo Antonio do Grama
+  - São Sebastião da Grama
+  - Manga
+  - Passa Tempo
+  - Arenápolis
+  - Gouveia
+  - Arcoverde
+  - Poções
+  - Rio Bonito
+  - Nagahama - Shiga
+  - Capela Nova
+  - Cristiano Otoni
+  - Morada Nova de Minas
+  - Santa Barbara
+  - Boston - Massachusetts
+  - Campos Verdes
+  - Cambuquira
+  - Conceição do Mato Dentro
+  - Santo Andre
+  - Conceição do Araguaia
+  - Itu
+  - Caravelas
+  - Santa Rita de Ibitipoca
+  - Pariquera-Açu
+  - Itariri
+  - Mairiporã
+  - Turim
+  - Trajano de Moraes
+  - Lagos
+  - Valparaiso de Goiás
+  - São Leopoldo
+  - Formosa do Rio Preto
+  - Sp
+  - Vila Franca de Xira
+  - Sao Paulo
+  - Itaboraí
+  - Colméia
+  - São João do Paraíso
+  - Broward County
+  - Agua Boa
+  - Duval de Barros
+  - Morro do Pilar
+  - Jequeri
+  - Piau
+  - Tabatinga
+  - Martins Soares
+  - Extrema
+  - Rio Pardo de Minas
+  - Cristina
+  - Ubatã
+  - Monte Mor
+  - Promissão
+  - Divinésia
+  - Cristalândia
+  - Dom Bosco
+  - Pedra do Anta
+  - Conceição do Castelo
+  - Moema
+  - Malacacheta
+  - Santo Antônio de Padua
+  - Irupi
+  - Altamira do Maranhão
+  - São Domingos do Maranhão
+  - Ibirite
+  - Lima Campos
+  - Urandi
+  - Araucária
+  - Felisburgo
+  - Santa Bábara
+  - Barcelos
+  - Gyoda-Shi
+  - Long Branch - New Jersey
+  - Tubarão
+  - Rubim
+  - Filadélfia
+  - Bonito
+  - Pocrane
+  - Caetanopolis
+  - Rondon
+  - Edina-Missota
+  - Newark
+  - Aparecida
+  - Riolândia
+  - Canchungo/Cacheu
+  - Juquiá
+  - Cachoeira da Prata
+  - Barbosa
+  - Santa Maria da VItoria
+  - Garanhuns
+  - Santa Adélia
+  - Parintins
+  - Veredinha
+  - Monte Azul Paulista
+  - Serra Negra
+  - Palmeira das Missões
+  - Itanhomi
+  - Río Verde
+  - Sao Gotardo
+  - Olho D'Água das Flores
+  - Mogi das Cruzes São Paulo
+  - Framingham - Massachusetts
+  - Aguaí
+  - Nova Europa
+  - Lagoa Dourada
+  - Poço Fundo
+  - Samba - Luanda
+  - Videira
+  - Mairinque
+  - Lapa
+  - Embú-Guaçú
+  - Jandira
+  - Caieiras
+  - Bertioga
+  - Saquarema
+  - Ichihara
+  - St. Maarten
+  - Natividade
+  - Alegrete
+  - Santana do Paraíso
+  - Colares
+  - Tefé
+  - Sumaré
+  - Muzambinho
+  - Xique-Xique
+  - Urbano Santos
+  - Nova Venecia
+  - Sao José dos Campos
+  - Lençóis Paulista
+  - Estrela do Indaia
+  - Agrestina
+  - Rosana
+  - Carapicuíba
+  - Pio Ix
+  - Manaus - Am
+  - Inhapim-Mg
+  - Juína
+  - Birigui
+  - Itaberaba
+  - Venda Nova  do Imigrante
+  - Abaetetuba
+  - Buritizal
+  - Framingham-Massachussetts
+  - Sumidouro
+  - Guararema
+  - Ubaitaba
+  - Bohicon
+  - Santana de Cataguases
+  - Sete Barras
+  - Carmo de Minas
+  - Remanso
+  - Matipo
+  - Santo Antão
+  - Barra do Choça
+  - São Bento Abade
+  - São Felix
+  - Humaitá
+  - Ourinhos
+  - Toyota - Aichi
+  - São Joaquim
+  - Conceição do Pará
+  - Ipora
+  - Pauini
+  - Monte Azul
+  - Klagenfurt
+  - Itararé
+  - Pedro do Anta
+  - Piraju
+  - Pedralva
+  - Antofagasta
+  - Xanxerê
+  - Itaguaí
+  - Agudos
+  - Danbury
+  - Santa Rita do Ituêto
+  - Montenegro
+  - Bissau
+  - Igaraçu do Tietê
+  - Maianga - Luanda
+  - São VIcente de Minas
+  - Rio Novo
+  - Laranjal
+  - Colíder
+  - Cochabamba
+  - Grão Mogol
+  - Vermelho Novo
+  - Pastos Bons
+  - Frei Inocêncio
+  - Pedra Bonita
+  - Mossurize
+  - Miracema do Tocantins
+  - Niterío
+  - Santa Helena
+  - Maracay
+  - Goaltore - West Medinipur
+  - Tumaco - Nariño
+  - Calambau
+  - São João do Oriente
+  - Pereira - Risaralda
+  - El VIgia
+  - Bucaramanga - Santander
+  - Cali
+  - Combita - Boyaca
+  - Cartago - Valle Del Cauca
+  - Neira - Caldas
+  - Acaiaca
+  - Barra Longa
+  - Taquatinga
+  - Mapinhane - VIlankulo
+  - Santafé de Bogotá-Cundinamarca
+  - Zaria
+  - Sobral
+  - Maracanaú
+  - Namuno
+  - Ceará-Mirim
+  - Santafe de Bogota
+  - Ilha Solteira
+  - Tunja
+  - Areia Branca
+  - Marcolino Souza
+  - Ibadan
+  - Adamantina
+  - Campina Grande
+  - Indaial
+  - Rubiataba
+  - Miranda
+  - Sahagun - Córdoba
+  - Eliseu Martins
+  - Dores do Rio Preto
+  - Porciuncula
+  - Barão de Monte Alto
+  - Swat
+  - Caxias
+  - Canavieiras
+  - Serra do Navio
+  - Embu
+  - Pamplona - Norte de Santander
+  - Barranquilla
+  - Caldas
+  - Calidonia
+  - José de Freitas
+  - Abbottabad
+  - Tocantinópolis
+  - Kasur
+  - Assis Chateaubriand
+  - Jataizinho
+  - Eldorado
+  - Uruguaiana
+  - Bucaramanga
+  - Grajaú
+  - Abortabad
+  - Poxoréo
+  - São José dos Quatro Marcos
+  - Ubajara
+  - Kilchberg
+  - Licinio de Almeida
+  - Guajeru
+  - Chomza Alta - La Peca
+  - Ibague- Tolima
+  - Puerto Ayacucho- Amazonas
+  - Valença do Piauí
+  - Jaboatão
+  - São José do Castanhal
+  - Cerro Largo
+  - Tupi Paulista
+  - Santa Tareza
+  - Curionópolis
+  - Mompos
+  - Guadalupe
+  - Armenia (Quindio)
+  - Campos Belos
+  - Ibadah
+  - Padre Paraiso
+  - São Francisco de Paula
+  - Piancó
+  - Sincelejo - Sucre
+  - Nampula
+  - Macatuba
+  - Senhora de Oliveira
+  - Ilesa
+  - Pau dos Ferros
+  - Jacarei
+  - Quelimane
+  - Icó
+  - Arara
+  - Gurupá
+  - Oruro
+  - Planeta Rica - Cordoba
+  - Monteria-Cordoba
+  - Mossoró
+  - Cerete
+  - Tolima - Líbano
+  - Antonio Carlos
+  - Cerete - Córdoba
+  - Magangué - Bolivar
+  - Trujillo
+  - Monteria - Cordoba
+  - Ibagué - Tolima
+  - Alessandria
+  - Quixadá
+  - Lobito - Benguela
+  - Cundinamarca - Bogotá
+  - Guarará
+  - Santo Antonio de Jesus
+  - Itapiranga
+  - Breves
+  - Catania
+  - Barra do Garça
+  - Crema
+  - Santana de Pirapams
+  - Kano
+  - Rolim de Moura
+  - Jõao Pessoa
+  - Ribeirópolis
+  - Medianeira
+  - Aracatu
+  - Paraguaçu
+  - Candelaria - Valle Del Cauca
+  - Concepción
+  - Alenquer
+  - Santa Rita de Caldas
+  - Lages
+  - Auriflama
+  - Frederico  Westphalen
+  - Sêrro
+  - Tarija
+  - Potirendaba
+  - Aquidauana
+  - Ajuricaba
+  - São José do Rio Claro
+  - Lima
+  - Manhiça
+  - Chefedonsa
+  - Tingo Maria
+  - Capim Branco
+  - Rio de Contas
+  - Alcobaça
+  - Cúcuta
+  - Loanda
+  - Wagner
+  - Huila - Neiva
+  - Lambayeque-Chiclayo
+  - Aracê
+  - Guapi Cauca
+  - Lorenskog
+  - Maganja da Costa
+  - Campos Sales
+  - Barranquilla - Atlantico
+  - Capão Bonito
+  - Barbalha
+  - Rio Grande
+  - Barranquilla - Atlántico
+  - Corozal - Sucre
+  - Campinas do Sul
+  - Montevideo
+  - Djougou
+  - Patria - Cusco
+  - Santa VItória do Palmar
+  - Bailadores - Mérida
+  - Contamana - Ucayali
+  - Santra Cruz do Piauí
+  - Talaigua Nuevo
+  - Murici
+  - Asuncion
+  - Medellin-Antioquia
+  - Guatemala
+  - Jiz de Fora
+  - Bogotá - Cundinamarca
+  - Guarabira
+  - Caicó
+  - Medellin
+  - Fusagasugá
+  - Não Me Toque
+  - Condeúba
+  - Queimadas
+  - Villa Clara - Cuba
+  - Santo Antônio de Posse
+  - Santo Antonio de Pádua
+  - Nova Bréscia
+  - Santa Maria da VItória
+  - Fátima do Sul
+  - San Salvador
+  - Jaguaré
+  - Alagoinhas
+  - Medellin- Antioquia
+  - Itanhem
+  - Presidente Epitácio
+  - Goiana
+  - Tapejara
+  - Sousa
+  - Angatuba
+  - Belo Horizone
+  - Taperoá
+  - Livramento do Brumado
+  - Limoeiro de Anadia
+  - Itiúba
+  - Palmas de Monte Alto
+  - Teotônio VIlela
+  - Manjacaze
+  - Taguatinga
+  - Mocoa Putumayo
+  - Bolona
+  - Águia Branca
+  - Quiterianópolis
+  - Parapuã
+  - Aguazul - Casanare
+  - Ilorin
+  - Piranhas
+  - Cuamba
+  - Santa Rita de Jacutinga
+  - Chimoio
+  - Pasto - Nariño
+  - Itueta
+  - Santa Maria de Itabira
+  - Catende
+  - Chapada
+  - Silverânia
+  - Monteria - Córdoba
+  - Alto Maranhão
+  - São Pedro do Suaçuí
+  - Rosário da Limeira
+  - Engenheiro Paulo de Frontin
+  - Kinshasa
+  - Caqueza
+  - Cali (Valle)
+  - Ponta Porã
+  - Huaraz
+  - Valle Del Cauca - Cali
+  - Barrancabermeja - Santander
+  - Angoche-Nampula
+  - Tosagua
+  - Quindío
+  - Trombudo Central
+  - São José do Belmonte
+  - Reserva do Cabaçal
+  - Bogotá
+  - Quevedo
+  - Manizales - Caldas
+  - Pichincha - Quito
+  - Mérida - Yucatán
+  - San José
+  - Andes - Antioquia
+  - Cannes
+  - Duitama - Boyaca
+  - Celica - Loja
+  - Zaruma - El Oro
+  - Khanewal
+  - Chinchina-Caldas
+  - Ibiaí
+  - Facatativá - Cundinamarca
+  - Paraí
+  - Santa Izabel do Oeste
+  - Panamá
+  - Cundinamarca - Bogota
+  - Pasto
+  - Libano
+  - Pojuca
+  - Pasto - Nariño - Colômbia
+  - Surubim
+  - Valparaizo
+  - Rio Negro
+  - Capitan Meza
+  - Maravilha
+  - União de Minas
+  - Ubaíra
+  - Campos dos Goitacazes
+  - San Isidro P. Zeledon San Jose
+  - Nishat Nagen Wasepar
+  - Manizales
+  - Yopal
+  - Baixo Guandu
+  - Murralelo
+  - São João da Urtiga
+  - Tanguiéta
+  - Baixa Grande
+  - Vilanculos
+  - Brummen
+  - Biquinhas
+  - Manica
+  - Otinolândia
+  - Bujaru
+  - Santos Dumot
+  - Ijuí
+  - Catas Altas da Noruega
+  - Três de Maio
+  - Santa Maria
+  - Itaquera
+  - Belo Oriente
+  - Coari
+  - Taminango - Nariño
+  - Luminárias
+  - Capinzal
+  - Esperança
+  - Aracati
+  - Floresta Azul
+  - Guapiles Pococi Limon
+  - Veracruz
+  - Caruarú
+  - Pombal
+  - São Lourenço do Sul
+  - Capitão Poço
+  - São José do Egito
+  - Picos
+  - Calima El Darien - Valle
+  - Areia
+  - São Bento do Una
+  - Afrânio
+  - Codó
+  - Jucuruçu
+  - Salete
+  - Canhotinho
+  - Junqueirópolis
+  - Guayaquil
+  - Nova Brasilândia D'Oeste
+  - Piamonte
+  - Bom Jesus
+  - Juliatapa
+  - Guarda-Mor
+  - São Pedro do IVaí
+  - Brasiléia
+  - Cedro de São João
+  - Sarandi
+  - Vitória de Santo Antão
+  - Villavicencio
+  - Pentecoste
+  - Sonaguera - Colón
+  - Monte Castelo
+  - Riobamba - Chimborazo
+  - Atzalan - Veracruz
+  - Itauguá
+  - Marromeu
+  - São Bonifácio
+  - Mafra
+  - Sobradinho
+  - Bonaberi Douala
+  - Marara - Changara
+  - San Jose
+  - Teotonio VIlela
+  - Jujuy
+  - Santisima Trinidad
+  - Linares
+  - Liberato Salzano
+  - Capoeiras
+  - Huanuco
+  - Carlópolis
+  - Pão de Açucar
+  - Mauriti
+  - Brejo
+  - Colorado do Oeste
+  - Campo Largo
+  - Barro
+  - Três Passos
+  - Doverlândia
+  - Cali - Valle
+  - Terexina
+  - Santa Rosa
+  - Barrancabermeja
+  - Debrezeit
+  - Debre Zeit
+  - Arsi-Asella/Kersa
+  - São José do Povo
+  - Ibiraiaras
+  - São Raimundo Nonato
+  - Rio das Pedras
+  - Nova Floresta
+  - Jarí
+  - Catolé do Rocha
+  - Salto do Jacuí
+  - Santana de Pirapama
+  - Oaxaca
+  - Icaraí de Minas
+  - Presidente Juscelino
+  - Iguatu
+  - Acará
+  - Iquitos - Loreto
+  - San Francisco Yovego
+  - Itagibá
+  - Natitingou
+  - São Luíz
+  - Itaguaru
+  - Tizimin - Yucatan
+  - Araruna
+  - Janduis
+  - Beira
+  - Campeche
+  - Pio Xii
+  - Irituia
+  - São Paulo das Missões
+  - Ananindeua
+  - Itacambira
+  - Lavras da Mangabeira
+  - Pacajus
+  - Caiçara
+  - Bella VIsta-Panamá
+  - Araripina
+  - Mamanguape
+  - Acari
+  - Santa Inês
+  - Cerejeiras
+  - Igarapé-Miri
+  - Palestina de Goiás
+  - Nova Petrópolis
+  - Vila de Icoaraci
+  - Palotina
+  - Alagoa Grande
+  - Angelina
+  - Garrafão do Norte
+  - Arroio Grande
+  - Horizontina
+  - Formoso do Araguaia
+  - Palmares
+  - Ponta José da Silva, Biombo
+  - Roque Gonzales
+  - Santa Rita
+  - Urdaneta - Los Rios
+  - Santo Antonio do Sudoeste
+  - Capivari
+  - São Sepé
+  - Patu
+  - Bannu
+  - Ibaqué - Tolima
+  - Jardega Jarte
+  - Poonch Ajk
+  - Francisco Sá
+  - Cachoeira de Pajeú
+  - Chiapetta
+  - Ivaiporã
+  - Tenente Portela
+  - Bela VIsta do Paraíso
+  - Remígio
+  - Toeldo
+  - Cunha Porã
+  - Ilicínea
+  - Guaporé
+  - Afonso Claúdio
+  - Nova Erechim
+  - Cassilândia
+  - Cocalinho
+  - Santo Antonio dos Milagres
+  - Alvorada do Oeste
+  - Crateús
+  - La Paloma
+  - Nova Jersey
+  - Floriano
+  - Bom Repouso
+  - São Domingos do Araguaia
+  - Moyo
+  - Isara
+  - Dadur
+  - Guajira
+  - Ena
+  - Governador Eugênio Barros
+  - Ananás
+  - Amarante
+  - Tietê
+  - Rio das Flores
+  - Tolima - Ibague - Colômbia
+  - Sincelejo
+  - Monteria
+  - Antioquia - Taraza
+  - Ginebra - Valle Del Cauca
+  - Boyaca
+  - Contenda
+  - Cordoba - Monteria
+  - Cartagena
+  - Medellin - Antioquia
+  - Parauapébas
+  - São Bento do Sapucai
+  - Huambo
+  - Soledad - Atlantico
+  - Namucurra-Zambézia
+  - Augusto Pestana
+  - Ayapel - Córdoba
+  - Síria
+  - Chaparral
+  - Planeta Rica - Córdoba
+  - Cerete-Cordoba
+  - Yenagoa
+  - Melellin - Antioquia
+  - Tuparendi
+  - Floresta
+  - Carnaíba
+  - Tete
+  - Jardim de Piranhas
+  - Canguçu
+  - Puerto Tejada
+  - Tulua
+  - Anadia
+  - Votuporanga
+  - Mopeia
+  - Porto-Novo
+  - Chibuto
+  - Varzelandia
+  - Armenia
+  - Irará
+  - Pamplona
+  - Mortugaba
+  - Barro Preto
+  - Ibotirama
+  - Igarapé Grande
+  - Uauá
+  - Temuco
+  - San José de La Mariquina
+  - Castro Alves
+  - San Matias
+  - Benjamin Constant
+  - Tabuleiro do Norte
+  - Goiandira
+  - Ipumirim
+  - São João do Oeste
+  - Tingo Maria - Huánuco
+  - Andaraí
+  - Jaguaruana
+  - Russas
+  - Petit-Goave
+  - Risaraldo - Pereira
+  - Barra das Garças
+  - Buenos Aires
+  - Paulista
+  - Nazaré da Mata
+  - Ribeirão
+  - Itaguatins
+  - Cachoeira
+  - Alto Taquari
+  - Magalhães de Almeida
+  - Terra Nova do Norte
+  - Belo Jardim
+  - Periperi
+  - Água Grande
+  - Santafe de Bogotá - Cundinamarca
+  - Jaguari
+  - Prainha
+  - Salto
+  - São Miguel D'Oeste
+  - Propriá
+  - Camargo
+  - Cali-Valle Del Cauca
+  - Bodocó
+  - Tamesis-Antioquia
+  - Caucasia - Antioquia
+  - Montelibano-Cordoba
+  - Senador Guiomard
+  - Bolivar - Marialabaja
+  - Nonoai
+  - México
+  - Fóz do Iguaçú
+  - Bagé
+  - Montelíbano - Córdoba
+  - Carvalhos
+  - Conceição do Coité
+  - San Isidro
+  - Solânea
+  - Nossa Senhora de Nazaré
+  - São José
+  - Inconfidentes
+  - Rio Verde de Mato Grosso
+  - Barão do Monte Alto
+  - Nova Russas
+  - Alvarenga
+  - Santana do Acaraú
+  - Moju
+  - Itapagé
+  - Macaparana
+  - Massapê
+  - Lins
+  - Santo Antônio de Jesus
+  - Boa VIagem
+  - Nhandeara
+  - Salgueiro
+  - Bom Jesus do Norte
+  - Granja
+  - Faxinal dos Guedes
+  - Sonora
+  - Torres
+  - Firminópolis
+  - Jaguaquara
+  - Maraú
+  - República do Panamá
+  - Caririaçu
+  - Quebec
+  - Cipotânea
+  - Caranaíba
+  - Colmeia
+  - Teixeira
+  - Marilândia
+  - Toronto
+  - Guaraçaí
+  - Paulistas
+  - Liberdade
+  - Fukuyama
+  - Rurópolis
+  - Sao Sebastiao
+  - Santo Antônio do Amparo
+  - Rio Maria
+  - Bridgeport
+  - Piracema
+  - Juíz de Fora
+  - Leme do Prado
+  - Raposos
+  - Boa Esperança do Sul
+  - Santo Antônio do Jacinto
+  - Érvália
+  - Palmeiras
+  - Francisco Morato
+  - Alvinopolis
+  - São José dos Pinhais
+  - Aperibé
+  - Rio Doce
+  - Ibiúna
+  - Presidente Bernardes Mg
+  - Bôca do Acre
+  - Maranguape
+  - Patrocínio do Muriaé
+  - Dona Euzébia
+  - Pedra do Indaiá
+  - Rio Fortuna
+  - Mutunópolis
+  - Bragança
+  - Braúnas
+  - Bela VIsta de Minas
+  - Edimburgo
+  - Puno
+  - Ilicinea
+  - Cachoeira de Itapemirim
+  - Rancharia
+  - Cuiaba
+  - Bataguassu
+  - Jequitaí
+  - Côcos
+  - Rodeiro
+  - Nancy
+  - Sao Bernardo do Campo
+  - Tianguá
+  - Sâo Domingos do Prata
+  - Comendador Levy Gasparian
+  - Saint-Martin-D Heres
+  - São Tomé
+  - Berlim
+  - Águas Belas
+  - Reading - Inglaterra
+  - Volta Grande
+  - Aguas Formosas
+  - Jatobá
+  - New York
+  - Pescador
+  - Bananal
+  - Santa Cruz de Minas
+  - Belmonte
+  - São Pedro da Aldeia
+  - Paraisopolis
+  - Varre Sai
+  - Rj
+  - Aguás Formosas
+  - Nagra dos Reis
+  - São Jose dos Campos
+  - Dianópolis
+  - Piracuruca
+  - Iconha
+  - Santa Bárbara D'Oeste
+  - Lowell
+  - Itau de Minas
+  - Itaruma
+  - Pires do Rio
+  - Ubaí
+  - Tete - Tete
+  - Cordisburgo
+  - Bryn Mawr
+  - Santa Leopoldina
+  - Bom Jardim de Minas
+  - Ibiraçu
+  - Feltre - Belluno
+  - Petrolândia
+  - Alpinopolis
+  - Cambridge
+  - Cota
+  - Santa Bárbara Doeste
+  - Orizona
+  - Monte Alegre do Piauí
+  - Marataízes
+  - Santana
+  - Nova Ponte
+  - Colômbia
+  - Itajobi
+  - Mongaguá
+  - Sumare
+  - Monte Alegre de Minas
+  - Tres Rios
+  - Novo Horizonte
+  - Santo Antonio do Monte
+  - Mombaça
+  - Rio Brilhante
+  - Cristalandia
+  - Morada Nova
+  - São Luis Gonzaga do Maranhão
+  - Saboeiro
+  - Felixlandia
+  - Lambari
+  - Ervália- Mg
+  - Visconde Rio Branco
+  - Itagimirim
+  - Itaúna - Mg
+  - Long Branch - Nova Jersey
+  - Viçosa Mg
+  - Artur Nogueira
+  - Irupí
+  - Cantagalo
+  - Juruaia
+  - Jenipapo de Minas
+  - Jundiai
+  - Canápolis
+  - Oeiras
+  - Itapeva
+  - Monte Sião
+  - Joaima
+  - Coronel VIvida
+  - Águas de Lindoia
+  - Salto de Pirapora
+  - Itatiaiuçu
+  - Olímpia
+  - Crucilândia
+  - Itiquira
+  - Jacaraci
+  - Barra do Mendes
+  - Fervedouro
+  - Mogi-Guaçu
+  - Raleigh
+  - São João da Mata
+  - Carmopolis de Minas
+  - Guaraní
+  - Nova Iguaçú
+  - Piracaia
+  - Argentina
+  - Cravinhos
+  - Lucelia
+  - Santo Cristo
+  - São Bento do Norte
+  - Caiana
+  - José Bonifácio
+  - Buri
+  - Pompéia
+  - Itamarati de Minas
+  - Goiás
+  - Nilo Peçanha
+  - Itatiaia
+  - Jacundá
+  - Nova Serrano
+  - Irece
+  - Pedra do Indaia
+  - Corrego Novo
+  - Eunapolis
+  - Dom Aquino
+  - Conceição da Barra de Minas
+  - Cosmópolis
+  - Minnesota
+  - Porto Novo
+  - São Sebastião do Sacramento
+  - São Valentim
+  - Galileia
+  - Pederneiras
+  - Aguas Belas
+  - Palmeira dos Índios
+  - Juquitiba
+  - Quelfes Olhão
+  - Morro Agudo
+  - Pontal
+  - Simonésia
+  - Brasilândia de Minas
+  - Ribeirão Corrente
+  - Serrana
+  - Omaha
+  - Milão
+  - Porto Calvo
+  - Paranapuá
+  - Santiago
+  - Monsenhor Paulo
+  - Juquia
+  - Tomé-Açu
+  - Marataizes
+  - Assaré
+  - Catete
+  - Komaki, Provincia de Aichi
+  - Águas Vermelhas
+  - Marilia
+  - Livramento de Nossa Senhora
+  - Cusco
+  - Itamonte
+  - Pinhalzinho
+  - Cabinda
+  - Lausanne
+  - Claro dos Poções
+  - Boston-Massachusetts
+  - Cascais
+  - Ames
+  - Lauro de Freitas
+  - Candeias
+  - Sumé
+  - Pedra Preta
+  - Mendes
+  - Peruibe
+  - Rondonopolis
+  - Belem
+  - Cachoeiras de Macacu
+  - Pcajá
+  - Frutal
+  - Paranaíba
+  - Curicó - Chile
+  - Serranópolis
+  - Chapadão do Sul
+  - Italva
+  - Indianápolis
+  - Rosário
+  - Simões Filho
+  - Settlement Of Komintern
+  - Santa Cruz Cabrália
+  - Quartel Geral
+  - Wisconsin
+  - São José da Lapa
+  - Rolândia
+  - Itinga
+  - Mirassol D'Oeste
+  - Cosmopolis
+  - Barra Bonita
+  - Puerto Ordaz- Estado Bolivar
+  - Madrid
+  - Augusto de Lima
+  - Dias D'Ávila
+  - Tabocas do Brejo Velho
+  - Chumbo
+  - Bananeiras
+  - São Luiz de Montes Belos
+  - São João da Serra Negra
+  - Bilac
+  - Santo André'
+  - Munhumirim
+  - Resplendôr
+  - São Domingos do Norte
+  - Itagiba
+  - Huancayo/Junin
+  - Queluzito
+  - Santo Tomé
+  - Cartagena - Bolivar
+  - Neiva - Huila
+  - Ibague - Tolima
+  - Cazenga
+  - Piracanjuba
+  - Barranqulla
+  - Alexandria
+  - Caarapó
+  - Quirola - Manabi
+  - Caxambú
+  - Guaraniaçu
+  - San Carlos - Alajuela
+  - San Andres Isla - Colômbia
+  - Santa Maria do Oeste
+  - Capango/Huambo
+  - Brejo Grande do Araguaia
+  - Mirabela
+  - Cascavél
+  - Valencia, Cordoba
+  - Habana
+  - Monte Celeste
+  - Crispin Jaques
+  - Rocatuerte
+  - Campo Limpo Paulista
+  - Justinopolis
+  - Florida, Camagüey
+  - Valledupar - Cesar
+  - East Meadow - Nova York
+  - Biella
+  - Ica - Nazca
+  - Seattle - Washington
+  - Caraí
+  - Clementina
+  - Itabirinha de Mantena
+  - Iporã
+  - Pradópolis
+  - Restrepo- Valle
+  - Baturité
+  - Benguela
+  - Santo Antonio do Manhuaçu
+  - Montreal - Quebec
+  - Jauru
+  - São Luís de Montes Belos
+  - Taboleiro
+  - Santa Maria da Boa VIsta
+  - Quilombo
+  - Bruxelas
+  - Yellow Springs - Ohio
+  - Orange - California
+  - Villagarzon Putumayo
+  - Funza
+  - Porciuncúla
+  - Chinu -Cordoba
+  - Milagro
+  - Caceres - Antioquia
+  - Garzun - Huila
+  - Rio Preto
+  - Cachoeira de Minas
+  - Itajaí
+  - Bonfinópolis
+  - Araputanga
+  - Belo Horozonte
+  - Buenópolis
+  - Illinois
+  - Concepcion - Guayaquil
+  - Bandeirantes
+  - Iaçu
+  - La Union - Colômbia
+  - Tlateloico
+  - São VIcente do Grama
+  - Dores do Turbo
+  - Huila
+  - Caragola
+  - El Sacrario
+  - Hatvan
+  - Porto Príncipe
+  - Estrelas
+  - Bela VIsta
+  - Wenceslau Guimarães
+  - Piquete
+  - Loja-Sucre
+  - San Sebastián - Magdalena
+  - Córdoba - Monteria
+  - Baião
+  - Málaga - Santander
+  - Sericita
+  - Yunguyo - Puno
+  - Itaverava
+  - Masma  - Peru
+  - Patos
+  - Caibaté
+  - Nossa Senhora das Dores
+  - Ubarí
+  - Apurimac
+  - Tulua - Valle Del Cauca
+  - Flórida, Eua
+  - Vau-Açú
+  - Apodi
+  - Salto Grande
+  - Akure
+  - Kampala
+  - Eastrela
+  - Dschang
+  - Nawalu
+  - Dessie
+  - Geboorte
+  - Dambazau
+  - Agbarha
+  - Namukamba-Sinazongwe
+  - Farafenni
+  - Adikpo
+  - Thaba-Tseka
+  - Ruhango
+  - Kumi
+  - Kaduna
+  - Drobo
+  - Akomadan
+  - Malduguri
+  - Insiza
+  - Ouro Verde de Minas
+  - Atorga
+  - São Domingos do Capim
+  - Dire, Tombouctou, Mli
+  - Filiya
+  - Antônio Prado de Minas
+  - Matco
+  - Mubende
+  - Entebbe
+  - Mbale
+  - Owolo
+  - Kigarana
+  - Kabermaido
+  - Ibanda
+  - Ogweno
+  - Buikwe
+  - Karugangana
+  - Mityana
+  - Jinja
+  - Mbavava  Wy
+  - Adare Ansha Kebele
+  - Kalara
+  - Kisorosoro
+  - Ouagdougou
+  - Mrewa
+  - Southern
+  - Abroad - Saudi Arabia
+  - Funtua
+  - Benin
+  - Kumasi
+  - Billiri
+  - Abaji
+  - Osogbo
+  - Amhara
+  - Mayo Belwa
+  - Ikeja
+  - Ede
+  - Toro
+  - Heipang
+  - Bouaké
+  - Offiankno
+  - Kyarujumba - Kagarama
+  - Endrila
+  - Abeokuta
+  - Ajuwon
+  - Akim Oda
+  - Saganu
+  - Zomba
+  - Ludaha
+  - Qomoqomong
+  - Divisioná
+  - Capim Grosso
+  - Kamuli
+  - Bauchi
+  - Accra
+  - Bonga
+  - Calabar
+  - Mingi
+  - Owo Ondo
+  - Ilobu
+  - Adiyo
+  - Serti
+  - Santiago de Cao
+  - Kentucky
+  - Maracaibo
+  - Lomé
+  - Iwo
+  - Biu
+  - Arsinegele
+  - Porto -Novo
+  - Quthing
+  - Dambam
+  - Ho
+  - Kabowa
+  - Mulante
+  - Takoradi
+  - Kolda
+  - Katiola
+  - Kraal
+  - Mbam-Bahá
+  - Manso Abore
+  - Oke-Aro
+  - Bokurati
+  - Ghma Tukari
+  - Jaji
+  - Mushin
+  - Muhanga
+  - Tagge
+  - Omisoro
+  - Ondo
+  - Chiunze
+  - Thies
+  - Wusuta
+  - Burera
+  - Mtwara
+  - Gusau
+  - Ciénaga de Oro - Córdoba
+  - Awkuzu
+  - Ile-Ife
+  - Affah - Ibajilga
+  - Wuse
+  - Montelíbano
+  - Barbosa Ferraz
+  - Santa Branca
+  - Sokoto
+  - Gombe
+  - Gbongan
+  - Sosiot
+  - Kaura
+  - Aba
+  - Obiaruku
+  - Nsukka
+  - Afikpo
+  - Obudu
+  - Ohia
+  - Bilaja
+  - Ochadamu
+  - Aifam-Owukpa
+  - Maiduguri
+  - Oyo
+  - Houngo
+  - Town
+  - Huye
+  - St. Jose
+  - Shagamu
+  - Umuahia
+  - Abithkad
+  - Ihiala
+  - Nassarawa
+  - Afar
+  - Nursing
+  - Juma
+  - Jalingo
+  - Zuru
+  - Ilara Mokim
+  - Ado-Editi
+  - Ikirun
+  - Nung Udoe
+  - Sabon Gari Zaria
+  - Osi
+  - Abobo
+  - Garu
+  - Ketou
+  - Pemba
+  - Lome
+  - Sapele
+  - Missungwi
+  - Hotoro
+  - Abakaliki
+  - Kathieno A'
+  - Fonfuka
+  - Evodoula
+  - Ebute-Metta
+  - Ezeoha
+  - Mombasa
+  - Enugu
+  - Bilbis
+  - Potiskum
+  - Yola
+  - Odo-Eri
+  - Makurdi
+  - Ngwo
+  - Boa VIsta do Ramos
+  - Tal
+  - Taku,
+  - Warri
+  - Damaturu
+  - Obaagun
+  - Ringim
+  - Yauraka
+  - Owo
+  - Gembe
+  - Port Harcourt
+  - Benghazi
+  - Amaigbo
+  - Kiogya
+  - I-Onyilo
+  - Opomu
+  - Bida
+  - Mocuba
+  - Matola
+  - Ado-Ekiti
+  - Urua Inyang
+  - Morodu
+  - Tundun Kaya
+  - Agulu
+  - Nenwe
+  - Mowusun
+  - Glazoue
+  - Isong Inyang
+  - Ogbomoso
+  - Kusuv
+  - Addis Ababa
+  - Andasime
+  - Nangere
+  - Shendam
+  - Uyo
+  - Minna
+  - Bisanje
+  - Bini
+  - Arapai
+  - Lyantonde
+  - Acibu
+  - Kyogya
+  - Yola Norith
+  - Katsina
+  - Ise-Ekiti
+  - Kwalam
+  - Oku Obom
+  - Kankara
+  - Ugep
+  - Jada
+  - Ikot Ntuen
+  - Gigane
+  - Ganye
+  - Jen
+  - Obizi
+  - Urapai
+  - Suleja
+  - Burunga
+  - Nigéria
+  - Oshiri
+  - Bale
+  - Vehari
+  - Onusa Nkwerre
+  - Urua Akpan
+  - Huánuco
+  - Getúlio Vargas
+  - Oyigbo
+  - Lubombo
+  - Ikdyi
+  - Kasulu-Kigoma
+  - Omupo
+  - Lagos Island
+  - Jani
+  - Wasinmi
+  - Kougougou
+  - Mazuwa Ward
+  - Kitenben
+  - Karaye
+  - Arifwala
+  - Kanye
+  - Jos
+  - Chipinge
+  - Harar
+  - Gicumbi
+  - Arigidi Akoko
+  - Rucuba Barracks
+  - Okelemba
+  - District Narowal
+  - Katagum
+  - Hoadan
+  - Okebukun
+  - Isolo
+  - Myarujojo
+  - Kyamakanda
+  - Ado Ekiti
+  - Port-Harcourt
+  - Kaiti
+  - Ughelli
+  - Merebe Leke
+  - Maduguri
+  - Benin-City
+  - Tudun Wada
+  - Kydahla
+  - Kolongo
+  - Malé
+  - Waje
+  - Gujranwala
+  - Godomey
+  - U. C. H.
+  - Ahamadiyaline
+  - R U K
+  - Kamapuro
+  - Kafanchan
+  - Harare
+  - Katsayal
+  - Lafia
+  - Gwaram
+  - Obantoko
+  - Ipu
+  - Beberibe
+  - Olinda
+  - Antonio Martins
+  - Paracuru
+  - Kingsville - Texas
+  - Campo Maior
+  - Godoy Cruz-Mensoza-Argentina
+  - Acopiara
+  - Reriutaba
+  - Santa Quitéria
+  - Santa Isabel do Pará
+  - União dos Palmares
+  - Leiderdorp
+  - Echaporã
+  - Xapuri
+  - Uruçuca
+  - São Francisco Xavier - Lisboa
+  - Hartford - Hartford
+  - Antwerpen - Velkeneers
+  - Correntes
+  - Lokeren
+  - Juina
+  - Oldenburg
+  - Espigão do Oeste
+  - Gaurama
+  - São Felix do Piauí
+  - Lagarto
+  - Cattolica
+  - Viamão
+  - Santander - Bucaramanga
+  - Barcelona
+  - Quatzenheim - Bas-Rhin
+  - Albacete
+  - Envira
+  - Borken
+  - Rotterdam
+  - Igogo-Ekiti
+  - Armenia - Quindio
+  - Toluca
+  - Oakville
+  - Xavantina
+  - Soissona
+  - Acambay
+  - Pastos-Bons
+  - Guanambí
+  - Sem Peixe
+  - Tacaimbó
+  - São Jose do Rio Preto
+  - Bra
+  - Rio do Prado
+  - Lambarí
+  - Iuna
+  - Novo Horizonte do Norte
+  - Lancaster
+  - San Inacio
+  - Tucurui
+  - Guarai
+  - Taquarituba
+  - Rosário do Sul
+  - Mindelo - São VIcente
+  - Monte Alegre
+  - Coronel Murta
+  - Cerqueira César
+  - Tatuí
+  - Quissamã
+  - Nova Esperança
+  - Bariri
+  - Almeirim
+  - Itapebi
+  - Pirajuí
+  - Guaranésia
+  - Rocha - Uruguai
+  - Virginia Beach - VIrginia
+  - Botelhos
+  - Além Paraiba
+  - Dom Joaquim
+  - Campos dos Goytacases
+  - São Gonçalo do Abaeté
+  - Alterosa
+  - Bela VIsta de Goiás
+  - São Domingos
+  - Jaguariaiva
+  - Almerim
+  - Bacabal
+  - Nova Eera
+  - Catanduvas
+  - Iraí
+  - Rio Grande da Serra
+  - Campo dos Goytacase
+  - Imbituba
+  - Campo do Brito
+  - Alto Rio Novo
+  - Paranapanema
+  - Presidente Tancredo Neves
+  - Ribas do Rio Pardo
+  - Estância Velha
+  - Tarabai
+  - Curaça
+  - Iporã do Oeste
+  - Tarauaca
+  - Icoaraci
+  - Natuba
+  - Manuaçu
+  - Senhora do Remédios
+  - Itamuri
+  - Angaturama
+  - Jequiri
+  - Aguardando Cert. de Nascimento
+  - Luisburgo
+  - Santana do Deserto
+  - Divino das Laranjeiras
+  - Piacatuba
+  - Pará de Mianas
+  - Indaiabira
+  - José da Penha
+  - Ribeiro Junqueira
+  - Alvorada
+  - Juramento
+  - Mesquita
+  - Vargem Grande do Rio Pardo
+  - Retiro do Muriaé
+  - Dom Cavati
+  - Matias Barbosa
+  - Cisneiros
+  - São Francisco do Glória
+  - Pedra Dourada
+  - Condado do Norte
+  - Ressaquinha
+  - Pádua
+  - Fernão Dias
+  - Itacanbira
+  - Itambira
+  - Itaporã
+  - Santo Antônio de Leverger
+  - Parque Industrial/Contagem
+  - Carioca
+  - Parque Ind. Mº de Contagem
+  - Engenheiro Navarro
+  - Itamaramdiba
+  - Nacip Raydan
+  - Pará de Minasq
+  - São Jose da Varginha
+  - Jacuí
+  - Tuiutinga
+  - Ubiratã
+  - Santa Tereza de Goiás
+  - Mineiros do Tietê
+  - Xambrê
+  - Imbituva
+  - Irati
+  - Saudades
+  - Riachão do Jacuipe
+  - Canoas
+  - Sãao Paulo
+  - Vilarrica
+  - Muçum
+  - Porecatu
+  - Buenaventura
+  - Santa Cruz do Rio Prado
+  - Mondaí
+  - São Joaquim de Bicas
+  - Lajeado
+  - Moreno
+  - Bron - Rhône
+  - Brusque
+  - Encantado
+  - Santo Amaro da Imperatriz
+  - Crisópolis
+  - Caxias do Sul
+  - Itaqui
+  - Américo Brasiliense
+  - Calgary
+  - Inácio Martins
+  - Guajará Mirim
+  - Vacaria
+  - Rodonópolis
+  - Ribeirão Grande
+  - Porto de Moz
+  - Baldim
+  - Pão de Açúcar
+  - São Geraldo do Baixio
+  - Ourizona
+  - Conchal
+  - Juraia
+  - Frei Gaspar
+  - Teofilo Otoni
+  - Conselheiro  Lafaiete
+  - Ponta de Pedras
+  - Cachoeira de Pageu
+  - Rondon do Para
+  - Presidente Medici
+  - Francisco Santos
+  - Caraúbas
+  - Glória de Dourados
+  - Monção
+  - Diogo de Vasconcelos
+  - Campos
+  - Luizburgo
+  - Santos Dumond
+  - Paraguassú
+  - Araçaí
+  - Maripá de Minas
+  - Patis
+  - Orizânia
+  - Franciscópolis
+  - Dores da VItória
+  - Cruzilha
+  - Carmo do Paraíba
+  - Serra da Saudade
+  - Padre Fialho
+  - Pedro Teixeira
+  - Joanésia
+  - Soledade de Minas
+  - Charqueadas
+  - Taubatá
+  - Mandaguari
+  - Jaboticatubas
+  - São José do Mantimento
+  - Vargem Alegre
+  - Entre Folhas
+  - Alpercata
+  - Senhora do Porto
+  - Santa Rita do Itueto
+  - Coronel Freitas
+  - Rio de Janeirio
+  - Paraisópolis
+  - Engenheiro Caldas
+  - Cachoeira de Macacu
+  - Laranjeira do Sul
+  - Acesita
+  - Senador Firimino
+  - Antonina
+  - Abaíba
+  - São Fidelis
+  - Minas Gerais
+  - Sumbe
+  - Antônio Dias
+  - São Pedro do Avaí
+  - Marmelópolis
+  - Reduto
+  - Granada
+  - Panema
+  - São João do Manhuaçu
+  - Hematita
+  - Rosário de Limeira
+  - São Pedro do Glória
+  - Belisário
+  - Luisburgo de Manhuaçu
+  - Pirapanema
+  - Antas
+  - Pirajuba
+  - Santa Bárbara do Leste
+  - Congonhas do Norte
+  - Japeri
+  - São Francisco do Gloria
+  - Goiatuba
+  - Santa Bárbara do Monte Verde
+  - Vilas Boas
+  - Morro do Ferro
+  - Laginha
+  - Vieira
+  - São Thomé das Letras
+  - Silveira Carvalho
+  - Tabaúna
+  - Carmo da Cachoeira
+  - Conceição da Aparecida
+  - Antonio Prado de Minas
+  - Nazare Paulista
+  - Canaâ
+  - Vermelho Velho
+  - Santana da Vargem
+  - Janáuba
+  - Bicuíba
+  - Itaboaí
+  - Presidente Dutra
+  - Chalé
+  - Colorado
+  - Guarataia
+  - Estrela do Sul
+  - São Sebastião do Anta
+  - Ibiporã
+  - Osaco
+  - Calai
+  - Livramento
+  - Catuji
+  - Venda Nova
+  - Beolo Horizonte
+  - Neopolis
+  - Arame
+  - Mantenópolis
+  - Ribeirão da Neves
+  - Coronel Xavier Chaves
+  - Turumirim
+  - Itabapoana
+  - Oliveira Fortes
+  - Eloi Mendes
+  - Capilinha
+  - Itapé
+  - Fidelandia
+  - Passa VInte
+  - Durandé
+  - Confins
+  - Rifaina
+  - Santa Rita de Minas
+  - Arequila - Peru
+  - Ôlho D'Agua das Cunhãs
+  - Paraguaçu Paulista
+  - Caçapava do Sul
+  - Chapada do Norte
+  - Valparaíso de Goiás
+  - Lubango - São José
+  - Ibague-Tolima
+  - Caçu
+  - Siqueira Campos
+  - Naviraí
+  - Roma
+  - Vila Maria
+  - Guaratã do Norte
+  - Huamali
+  - Santa Albertina
+  - Martinópolis
+  - Óbidos
+  - Porto Murtinho
+  - Itambé
+  - Santa Izabel do Pará
+  - Rio do Pires
+  - Alecrim
+  - La Paz
+  - Taquari
+  - Araças
+  - São Paulol
+  - Boqueirão dos Cochos
+  - Gogoy Cruz
+  - Regente Feijó
+  - Quedas do Iguaçu
+  - Corbélia
+  - Morretes
+  - Piratuba
+  - Tanabi
+  - Nobres
+  - Canaã dos Carajás
+  - Ivaté
+  - Rio Azul
+  - Fundão
+  - Flora Rica
+  - Riio de Janeiro
+  - Hugo Napoleão
+  - Santópolis do Aguapei
+  - Governador Soaes
+  - Lauro Muller
+  - Novo Progresso
+  - Stuttgart
+  - Montes Claros de Goiás
+  - Yarmouk - Damasco
+  - Ouriçangas
+  - Bucaramanga - Colômbia
+  - Ivoti
+  - Presidente Castelo Branco
+  - Ribeirão do Pinhal
+  - Bastos
+  - Quipapá
+  - Belol Horizonte
+  - Iguape
+  - Rio de Janeiroi
+  - Ivatuba
+  - Quipungo
+  - Serafina Corrêa
+  - Timbó
+  - Duartina
+  - Barbablanca
+  - Garça
+  - Mérida
+  - Coronel Fabiciano
+  - Trombuco Central
+  - Campos Novos
+  - Pereiro
+  - Manicoré
+  - São Pauylo
+  - Poconé
+  - Anapolis
+  - Simplício Mendes
+  - Pomerode
+  - Jaguarão
+  - São Gonçado de Sapucaí
+  - Mashhad
+  - Belo Horiznte
+  - Taquará
+  - Magda
+  - Victor Graeff
+  - Independência
+  - Caiapônia
+  - Boa VIsta do Buricá
+  - Capela
+  - Nova Brasilândia
+  - Urussanga
+  - Porto União
+  - Pirenópolis
+  - São Félix
+  - Palmeiras de Goiás
+  - Taió
+  - Castro
+  - Borrazópolis
+  - Casca
+  - Panambi
+  - Tapera
+  - Renascença
+  - São José do Ouro
+  - Espumoso
+  - Marau
+  - Portelândia
+  - Andradina
+  - Chopinzinho
+  - Lago da Pedra
+  - São Pedro do Butiá
+  - Canoinhas
+  - Bento Gonçalves
+  - Patrocínio Paulista
+  - Rio Acima
+  - Clevelândia
+  - São Pedro da União
+  - Guaira
+  - Ponte Serrada
+  - Santa Cecília
+  - Guarani das Missões
+  - Nova Prata
+  - Ferreiros
+  - Alagoa Nova
+  - Abelardo Luz
+  - Braço do Norte
+  - São Francisco de Assis
+  - Cambé
+  - Diamante do Norte
+  - Planalto
+  - Itapira
+  - Santo Augusto
+  - Eneas Marques
+  - Marmeleiro
+  - Guiratinga
+  - Mamborê
+  - Malett
+  - Mangueirinha
+  - Uruana
+  - Araporã
+  - São Lourenço D'Oeste
+  - Tasso Fragoso
+  - Curitibanos
+  - Colider
+  - Matelândia
+  - Terra Roxa
+  - Perdeneiras
+  - Porto dos Gauchos
+  - Sambaiba
+  - Iracemápolis
+  - Brejo Santo
+  - Joviânia
+  - Roseira
+  - Osvaldo Cruz
+  - Palestina
+  - Coronel Bicaco
+  - Vigia
+  - Nova Trento
+  - Indianópolis
+  - Rio do Sul
+  - Cachoeira do Sul
+  - Nova Cantu
+  - Rialma
+  - Maracaí
+  - Itatiba do Sul
+  - Laguna
+  - São Bento do Sul
+  - Laurentino
+  - Ibiruba
+  - Tupâ
+  - Bocaina
+  - São Benedito
+  - Aguanil
+  - Santo Antônio da Platina
+  - Alto Garças
+  - Aaraxá
+  - Centenário do Sul
+  - Campo Bom
+  - Roncador
+  - Ituporanga
+  - Barão de Cotegipe
+  - Castanheira
+  - Canguaretama
+  - Bom Jardim de Goiás
+  - Brejaúba
+  - Itaquiraí
+  - Pedro Gomes
+  - Monte Aprazível
+  - Silvania
+  - Faxinal
+  - Moji Guaçu
+  - Silvânia
+  - Rosário Oeste
+  - Ayaviri
+  - Itabúna
+  - Cacequi
+  - Tabapuã
+  - Vila de Maria
+  - Giruá
+  - Cruzeiro do Sul
+  - Catuípe
+  - Colinas do Tocantins
+  - São Miguel do Oeste
+  - Ponte Alta do Bom Jesus
+  - Lagoa Vermelha
+  - Volta Redonça
+  - Grajau
+  - Anajatuba
+  - Aliança
+  - Forquilha
+  - Laranjal Paulista
+  - Frederico Westphalen
+  - Tucunduva
+  - Alto Paraguai
+  - Mosqueiro
+  - Caxambu do Sul
+  - Meleiro
+  - Passagem Franca
+  - Pratinha
+  - Ronda Alta
+  - Paranatinga
+  - São José do Cedro
+  - Cristopolis
+  - Pitanga
+  - Severiano de Almeida
+  - Florianópólis
+  - Tibagi
+  - Condor
+  - Palmeira
+  - Brodowski
+  - Jaborandi
+  - Feira de Snatana
+  - Tarumã
+  - Terra Boa
+  - Rio Formoso
+  - Casa Nova
+  - Anicuns
+  - Jeriquara
+  - Luiz Alves
+  - Crissiumal
+  - Urussunga
+  - Loreto
+  - Claudia
+  - Santo Antônio do Sudoeste
+  - Várzea Grande
+  - Igaporã
+  - Rio Pardo
+  - Alto Parnaíba
+  - Puente Kyihó
+  - Santa Cruz do Sul
+  - Salto Del Guairá
+  - Curuça
+  - Não-Me-Toque
+  - Tupãssi
+  - Cotegipe
+  - Benedito Leite
+  - Piratininga
+  - Sananduva
+  - Ibiara
+  - Planalto Alegre
+  - Santa Bárbara do Sul
+  - Silveiras
+  - Corrente
+  - Apodí
+  - Frederco Westphalen
+  - Camapuã
+  - São Jorge D'Oeste
+  - Tomazina
+  - Braasília
+  - Caceres
+  - Assaí
+  - Ibitinga
+  - Turvo
+  - Ipuiuna
+  - Matina
+  - Itaiópolis
+  - Formosa do Oeste
+  - Guará
+  - Itaporanga
+  - Santa Cruz
+  - Umarizal
+  - Juranda
+  - Poxoréu
+  - Ibirubá
+  - Juti
+  - Muritiba
+  - General Salgado
+  - Rio Tinto
+  - Nazaré Paulista
+  - Jaguaribe
+  - Barra do Rocha
+  - Afogados da Ingazeira
+  - Indiaporã
+  - São Francisco do Brejão
+  - Soledade
+  - Xanxeré
+  - Olho D'Agua das Cunhas
+  - São Raimundo das Mangabeiras
+  - Missal
+  - Carazinho
+  - Tarauacá
+  - Guapiaçu
+  - Demerval Lobão
+  - Chapadinha
+  - Castilho
+  - Guarujá do Sul
+  - Mirante da Serra
+  - Nova Pádua
+  - Nova Olinda - Turiaçu
+  - Santo Antônio do Içá
+  - Astorga
+  - Fátima
+  - Gravatá
+  - Sant'Ana do Livramento
+  - Santa Bárba D'Oeste
+  - Cabrobó
+  - Nova Granada
+  - Britânia
+  - Mozarlândia
+  - Limon
+  - Uneí
+  - Iuiu
+  - Alvorada do Norte
+  - Porangatu
+  - São Francisco do Piauí
+  - Estrela D'Oeste
+  - Amargosa
+  - Senhor do Bomfim
+  - Campo Azul
+  - Santo Anastácio
+  - São Felix do Araguaia
+  - Cacique Doble
+  - Campinápolis
+  - Sibop
+  - Conchas
+  - Witmarsum
+  - Fronteiras
+  - Tomé-Açu-Pará
+  - Janiópolis
+  - Patos de Minaas
+  - Ribierão Preto
+  - São Martinho
+  - Quebrangulo
+  - Passa-Quatro
+  - Morro do Chapeu
+  - Tesouro
+  - Buritama
+  - Vera
+  - Antônio João
+  - Aurora do Tocantins
+  - Rio Negrinho
+  - Denise
+  - União da VItória
+  - Tomé-Açú
+  - Fortaleza dos Nogueira
+  - Santo Antônio da Alegria
+  - Itaipé
+  - Água Doce
+  - Uraí
+  - Leopoldo de Bulhões
+  - Jacinto Machado
+  - Adradas
+  - Araguaia
+  - Araranguá
+  - Camacan
+  - São Domingos do Azeitão
+  - Andirá
+  - Serra Dourada
+  - Maputo - Moçambique
+  - Entre Ijuís
+  - Paranacity
+  - Sanga Puitã
+  - Ibititá
+  - Colilnas do Tocantins
+  - Mamboré
+  - Galvão
+  - Cafarnaum
+  - Espigão D Oeste
+  - Itaueira
+  - Esperantinópolis
+  - Giânia
+  - Maximiliano de Almeida
+  - São Manuel
+  - Pérola D'Oeste
+  - Braganey
+  - Ssalvador
+  - Belo Campo
+  - Timburi
+  - São José da Laje
+  - Palmitos
+  - Jaguapitã
+  - Sidrolândia
+  - Campo Verde
+  - Arês
+  - Balsa
+  - Jaboticaba
+  - São João do Triunfo
+  - Bom Jesus da Penha
+  - Novo Acordo
+  - Prata
+  - Cafelândia
+  - Monte Santo
+  - Rondonóplis
+  - Gurinhatã
+  - Arenópolis
+  - Neropolis
+  - Saloá
+  - Itacurubí Cordillera
+  - Bituruna
+  - Gumma-Ken - Japão
+  - Mairi
+  - Pinhalão
+  - Sento-Sé
+  - Rolim  de Moura
+  - Rio Real
+  - Itupiranga
+  - Xexéu
+  - Petrolina de Goiás
+  - Lagoa do Ouro
+  - Capitão Leônidas
+  - Chapada dos Guimarães
+  - Gentio do Ouro
+  - Valente
+  - Putinga
+  - Corpus Christi
+  - Nova Olímpia
+  - Coruripe
+  - Iraquara
+  - Antônio Prado
+  - Jaguaretama
+  - Espírito Santo dos Pinhais
+  - Riachão
+  - Brejolândia
+  - Tucano
+  - Palmital
+  - Quixeramobim
+  - Paraíso do Norte
+  - Guariba
+  - Ulianópolis
+  - Ibipeba
+  - São Sebasdtião da Grama
+  - Piratini
+  - Apiaí
+  - Pesqueira
+  - Luziana
+  - Claro de Minas
+  - Porto Grande
+  - Castilhos
+  - Itacoatiara
+  - Santana do Manhuaçú
+  - Maués
+  - São Lourenço da Mata
+  - Porto Esperidião
+  - Ubirajara
+  - Juiz de Foara
+  - Limoeiro
+  - Reserva do Iguaçu
+  - Belo Hoizonte
+  - Bonito de Santa Fé
+  - Brasíla
+  - Coselheiro Lafaiete
+  - Gama
+  - Juiz Fe Fora
+  - Sapucaia do Sul
+  - Cachoeiro de Ltapemirim
+  - Medianeiro
+  - Santa Tereza
+  - Ingaí
+  - Cândido Rodrigues
+  - Cuibá
+  - Vargem Bonita
+  - Otacílio Costa
+  - Correia Pinto
+  - Bocaina do Sul
+  - Gabriel Monteiro
+  - Fraiburgo
+  - Alpestre
+  - Presidente Alves
+  - Jaguariaíva
+  - Irani
+  - Campina da Alegria
+  - Valdivia
+  - Coronel
+  - Getulina
+  - Coyhaique
+  - Presidente Ríos
+  - Pouso Redondo
+  - Lota
+  - Moneda
+  - São José da Boa VIsta
+  - Deodápolis
+  - Angol
+  - Purranque
+  - San Carlos
+  - Providencia
+  - Chanco
+  - Talcahuano
+  - Itapejara D'Oeste
+  - Recoleta
+  - Talca
+  - Constitución
+  - Rincão
+  - Tomé
+  - Gorbea
+  - Punta Arenas
+  - Los Angeles
+  - Arica
+  - Puerto Ysen
+  - Ruy Barbosa
+  - Puente Alta
+  - Las Condes
+  - Itapecuru Mirim
+  - Penco
+  - El Puerto
+  - Concordia
+  - Santa Juana
+  - Los Lagos
+  - Puente Alto
+  - Wenceslau Braz
+  - Osorno
+  - Nacimiento
+  - Mendes Pimentel
+  - Blumenal
+  - Rancagua
+  - Universidad
+  - Pouso Alto
+  - Marutinga do Sul
+  - Susano
+  - São Caetano
+  - Mazagão
+  - Jinotega
+  - Arco Verde
+  - Lençóis Paulistas
+  - Boituva
+  - Butiá
+  - São Jerônimo
+  - Guaíba
+  - Osório
+  - Arroio dos Ratos
+  - Tapes
+  - Cerro Grande do Sul
+  - Esteio
+  - Triunfo
+  - Barra do Ribeiro
+  - Santa Barbara D'Oeste
+  - Vallenar
+  - Sud Mennucci
+  - Tupã Renda
+  - Queens
+  - Ubaporanga
+  - Tremembé
+  - Miami - Flórida
+  - Mainz
+  - Benoni
+  - Brazópolis
+  - Ibaté
+  - Amarante do Maranhão
+  - Puerto Suárez
+  - Lansing-Michigan
+  - Poté
+  - Ibirapuã
+  - Fronteira dos Vales
+  - Sao Mateus
+  - Ataleia
+  - Tumiritinga
+  - Vila Valério
+  - Janauba
+  - Jordânia
+  - Itarantim
+  - Olhos-D'Água
+  - Bugre
+  - Paula Candido
+  - Cristália
+  - Bocaíuva
+  - Sao Miguel do Anta
+  - Sooretama
+  - Santo Antonio de Padua
+  - Crixás
+  - Carolina
+  - Campo do Meio
+  - Pirambu
+  - Ipubí
+  - Inhambane
+  - Pequi
+  - Taparuba
+  - Taquaraçu de Minas
+  - Belmiro Braga
+  - Macarani
+  - Heitoraí
+  - Laranjeiras
+  - Santo Antônio do Aventureiro
+  - Santa Cruz da Conceição
+  - Lagoa D'Anta
+  - Charqueada
+  - Minakuchi
+  - Itacaré
+  - Visconde do Rio Bbanco
+  - Pariquera-Açú
+  - São Francisco Xavier-Lisboa
+  - Itáuna
+  - Nova Iguacu
+  - Governador Jorge Teixeira
+  - Mata Grande
+  - São João do Manteninha
+  - João Camara
+  - Jambeiro
+  - Alto Alegre dos Parecis
+  - São Bernado do Campo
+  - Itabatã
+  - Piedade de  Ponte Nova
+  - Materlândia
+  - Itauçú
+  - Paraúna
+  - Areado
+  - Mirai
+  - Prudente de Morais
+  - Gravatal
+  - Mimoso de Goiás
+  - Gotemba-Shizuoka
+  - Worcester - Massachusetts
+  - Filadélfia - Pensilvânia
+  - Guacui
+  - Fóz do Iguaçu
+  - Cabreúva
+  - La Ceiba - Atlántida
+  - Salinas - Califórnia - Eua
+  - Flórida
+  - Califórnia - Eua
+  - Funchal
+  - Natercia
+  - Arecibo
+  - Barbados
+  - Managua
+  - Santo Domingo
+  - Nazaré
+  - Laceiba
+  - Buenos Airea
+  - Sardoá
+  - Nishio - Aichi
+  - Parnamirim
+  - El Carmen, Manabi
+  - Tres Marias
+  - Iga - Mie
+  - Catacamas
+  - Riobamba
+  - Santa Isabel do Rio Negro
+  - Lábrea
+  - Careiro
+  - Ondame-Biombo
+  - Santa Cruz do Piauí
+  - Eirunepé
+  - São Gabriel da Cachoeira
+  - Carauari
+  - Parambu
+  - Peixe Boi
+  - Silves
+  - Gervasio Santillana
+  - Costa Rica
+  - Ñuñoa
+  - Mutarara
+  - Pennsylvania
+  - Estância
+  - Três Arroios
+  - Pratapolis
+  - Belize
+  - Chore
+  - Matagalpa
+  - Caaguazú
+  - Sapeaçu
+  - Sobrália
+  - Uruca Central - San Jose
+  - Pereira - Irsaralda
+  - Heredia
+  - Augustinópolis
+  - Pereira
+  - La VIrginia
+  - Miguerrine Maquival
+  - Campo de Mayo - Buenos Aires
+  - Alta Floresta do Oeste
+  - Risaralda - Pereira
+  - Huila - Garzon
+  - Caldas - Chinchina
+  - Tunja - Boyacá
+  - Santa Elena de Arenales
+  - Oiapoque
+  - Santa Fe de Bogota
+  - Central Bahia
+  - Puno - Moho
+  - Nova Olinda
+  - Surulere
+  - Orizaba - Vera Cruz
+  - São João Del -Rei
+  - Bakura - Gusau
+  - Lagos - Osogbo
+  - Pato Bragado
+  - Sao Leopoldo
+  - Bogota - Cundinamarca
+  - Provincia do Panamá
+  - Oliveira dos Brejinhos
+  - Santa Fé de Minas
+  - Carmo de Paranaiba
+  - Pucallpa - Ucayali
+  - Hong Kong
+  - Oruro - Cercado
+  - La Habana
+  - Ikipu - Osogbo
+  - Ohita
+  - Cururupu
+  - Morrubene
+  - Xai-Xai
+  - Pari
+  - San Roque-Antioquia
+  - Nacala-Porto
+  - Batsari
+  - Pichincha
+  - Florencia-Caqueta
+  - Beira - Maputo
+  - Xai-Xai - Gaza
+  - Since - Sucre
+  - San Onofre - Sucre
+  - Cerete - Cordoba
+  - Lorica - Córdoba
+  - Ikom
+  - Auchi
+  - Vila Nova de Foz Côa
+  - São Bernardo
+  - Visconde do Rio Brando
+  - Ibagué
+  - San Carlos - Cojedes
+  - Erval Seco
+  - Jaen
+  - Domingo Peña - Mérida
+  - Jaén - Cajamarca
+  - Leonardo Ortiz
+  - Nieva - Condorcanqui
+  - Chaparral - Tolima
+  - Ibague
+  - Chota
+  - Somolu Lagos
+  - Descanso
+  - Labrea
+  - Venâncio Aires
+  - Moreira Sales
+  - Pedra Branca
+  - Coaraci
+  - Veranópolis
+  - Porto Lucena
+  - Brasiléa
+  - Munique
+  - Lapão
+  - Matupa
+  - Bissorã
+  - Boca do Acre
+  - Vitoria da Conquista
+  - Nova Lusitânia - Jobo
+  - Assuncion
+  - Rionegro - Antioquia
+  - Argirita
+  - Petróipolis
+  - Nossa Senhora da Conceição
+  - Conselho da Praia
+  - Ikosi - Kosofe - Lagos
+  - Ipiranga
+  - Somoto - Madriz
+  - Chihuahua
+  - Penafiel
+  - Sogamoso - Boyacá
+  - Distrito Federal
+  - Cañete
+  - Ibagué-Tolima
+  - Medellín - Antioquia
+  - Bór-Prabis
+  - São Pauo
+  - Guaraciama
+  - Maracanã
+  - Porto Franco
+  - Angelopolis
+  - Anaco
+  - Antioquia - Titiribí
+  - Itaiçaba
+  - Cambane - Manjacaze
+  - Santo Antonio do Içá
+  - Junqueiro
+  - Várzea Nova
+  - Mbaitoli
+  - Afara
+  - Vallang-Kalep
+  - Plateau
+  - Santa Fé de Bogota
+  - Pato de Minas
+  - Conceição
+  - Bula
+  - Louveira
+  - Elda
+  - Pimenta
+  - Baixo Gandu
+  - Rosario
+  - Chinchina - Caldas
+  - Bellavista
+  - Salamina - Caldas
+  - Alvarães
+  - Florencia - Caqueta
+  - Viña Del Mar
+  - La Vega Real - La Vega
+  - Lamaní - Comayagua
+  - Contadero - Nariño
+  - Guaitarilla - Nariño
+  - Samaniego - Nariño
+  - Quesada -San Carlos -Alajuela
+  - Distrito Central
+  - Antioquia - Medellin
+  - Arroio do Meio
+  - São Mateus do Sul
+  - Aldeias Altas
+  - Puerto Asis
+  - Apuiarés
+  - Carapicuiba
+  - Jesuânia
+  - Luque
+  - Puerto Tejada - Cauca
+  - Cocal dos Alves
+  - Santa Lucía Cotzumalguapa
+  - São João dos Patos
+  - Chimá - Córdoba
+  - Tui - Pontevedra
+  - Guaraci
+  - Mato Verde
+  - Belfort
+  - Pacaraos - Huaral - Lima
+  - Francisico Sá
+  - Chia - Cundinamarca
+  - São Domingos do Sul
+  - Loja - Sucre
+  - Mundo Novo
+  - Carvalhópolis
+  - Bogotá - Condinamarca
+  - Monte Alegre de Sergipe
+  - Cajamarca
+  - São João do Rio do Peixe
+  - Santo Domingo de Los Colorados
+  - Bahía Blanca - Buenos Aires
+  - Terrier-Rouge
+  - Eha-Alumona In Nsukka
+  - Campos Lindos
+  - Catigua
+  - Prudentópolis
+  - Cruzeta
+  - Aurora
+  - Tuneiras do Oeste
+  - Telêmeco Borba
+  - Chipaque
+  - Pitalito - Huila
+  - Santafe de Bogota-Cundinamarca
+  - Saldaña - Tolima
+  - Setubinha
+  - Aratiba
+  - Montepuez
+  - Zavala - Inhambane
+  - Parakou
+  - Itapiúna
+  - Canutama
+  - Turvelândia
+  - Palma Solo
+  - Boquira
+  - Tolima - Ibagué
+  - Viseu
+  - Cortazar - Guanajuato
+  - São Sebastião da Boa VIsta
+  - Quevedo - Los Rios
+  - Quelimane - Zambézia
+  - 25 de Diciembre
+  - Peixoto de Azevedo
+  - Vila de Catandica
+  - Formosa da Serra Negra
+  - Ebute-Metta/Yaba
+  - Shomolu Lagos
+  - Fukui
+  - Buriti Bravo
+  - Bariloche
+  - Timbiras
+  - Goioerê
+  - Guaiúba
+  - Buerarema
+  - Maraba
+  - Serra dos Aimorés
+  - Campanário
+  - Patrocinio do Muriaé
+  - Puerto Leguizamo
+  - Ebutte Meta/Yaba
+  - Kakuri
+  - Ibadam
+  - Ilara Mokin
+  - Venda Nova dos Imigrantes
+  - Umuokanne / Ohaji/Egbema
+  - Nkalagu Ebonyi State
+  - Huamanga - Ayacucho
+  - Piura / Castilla
+  - Sancos - Huancasancos
+  - Ayacucho - Huamanga
+  - Haquira - Cotabambas
+  - Acacias
+  - El Aguila Valle
+  - El Salvador
+  - Juli - Chucuito
+  - Huacullani - Chucuito
+  - Collique
+  - Túcume
+  - Prado-Tolima
+  - Restrepo-Valle
+  - Tolima-Ibagué
+  - Chiclayo
+  - San Juan de Lurigancho
+  - Urua-Akpan
+  - Chicuque - Maxixe
+  - Salinópolis
+  - Ilhes
+  - Ibaque - Tolima - Colombia
+  - Caqueta - Florencia
+  - San Pedro Sula - Cortés
+  - São Mamede
+  - Malumfashi
+  - Tolima
+  - Guxupé
+  - Itabaiana
+  - Del Guamo
+  - Quelimane - Maputo
+  - Pinheiro Machado
+  - Calle
+  - Mechumuicho
+  - Alvarado - Tolima
+  - La Raza - Atzcapotzalco
+  - Hitachinaka-Shi Ibaraki-Ken
+  - Okitipupa
+  - Huancán
+  - Sogamoso
+  - Santafe de Bogoto
+  - Ipeúna
+  - Villeta
+  - Tarma - Junin
+  - Chicumbane - Xai-Xai
+  - Moji Mirim
+  - São Nicolau
+  - Santo Antônio dos Pombos
+  - Yabo
+  - Zapatoca -Santander
+  - Tierralta - Cordoba
+  - Caucasia/Antioquia
+  - La Plata
+  - Córdoba
+  - Bataiporã
+  - Antioquia - Medelin
+  - São Sebastião da VItória
+  - Rosalândia
+  - Paudalho
+  - Catu
+  - Azare - Katagum
+  - Saki
+  - Anua
+  - Camacã
+  - Quatá
+  - Jequie
+  - Nancy-Meurthe-Et-Moselle
+  - Piunhi
+  - Santa Mariana
+  - Itapipoca
+  - Planaltina do Paraná
+  - Caracaraí
+  - Trombudo
+  - Cajazeiras
+  - Zé Doca
+  - Chiclayo - Lambayeque
+  - Alto Paranaíba
+  - Parnaiba
+  - Vargem Grande
+  - Capão da Canoa
+  - Cuabá
+  - Santa Luzia D'Oeste
+  - Claro dos Porções
+  - Bom Jesus da Cachoeira
+  - Mariléia
+  - Muriáe
+  - Santo Antonio do Rio Abaixo
+  - Conselheiro Lafaeite
+  - Tabajara
+  - Belisario
+  - Dores de Indaiá
+  - Coronel  Fabriciano
+  - Sao Felix de Minas
+  - Belo Horizzonte
+  - Santana do Jacaré
+  - Itaguai
+  - Santo Anônio do Grama
+  - Cataguarino
+  - Correia de Almeida
+  - São José Nepomuceno
+  - Curicó
+  - Estación
+  - Concepcion
+  - La Lingua
+  - Pitrufquén
+  - Concepción - Chile
+  - San Fernando - Chile
+  - Bage
+  - Comendador Venâncio
+  - Bezerros
+  - Libano - Tolima
+  - Santa Cruz do Capibaribe
+  - Gandomar - Portugal
+  - Valpaços - Portugal
+  - Boticas - Portugal
+  - Sintra  -  Portugal
+  - Vila Nova de Famalicão
+  - Guimarães - Portugal
+  - Ourém
+  - Lansdale - Pennsylvania
+  - Popayan - Cauca
+  - Bahia Blanca
+  - Puente Alto - Santiago
+  - Pamplona - Navarra
+  - Hawthorn
+  - Sahagún - Córdoba
+  - Santo Antonio do Tauá
+  - Miami-Dade
+  - Monroe - Ouachita
+  - Quibala
+  - Ingombota
+  - Alabama
+  - Pachuca de Soto, Hgo
+  - Helsinki
+  - Durango
+  - Apaxco
+  - Santa Fé
+  - Corrientes
+  - Pachuca - Hidalgo
+  - Ponferrada - Leon
+  - Ilha do Fogo
+  - Ilha de Santo Antão
+  - Distrito Federal - Mexico
+  - Thun
+  - Arizona
+  - North Carolina
+  - Georgia
+  - Rouen
+  - Vannes
+  - Valence
+  - Tucuman
+  - Mendoza
+  - Rennes
+  - Stads
+  - Cholet
+  - Londonderry
+  - Gönen
+  - Derby - Derbyshire
+  - Quilmes - Buenos Aires
+  - Deutsch
+  - Tarrafal - Santiago
+  - Poznán
+  - Gorgan
+  - Landsmeer
+  - Iowa
+  - Lexington-Fayette
+  - Cincinnati - Ohio
+  - Manhattan - Kansas
+  - California
+  - Louisiania
+  - Pensacoa - Florida
+  - Tennessee
+  - Angleton - Texas
+  - Guilford County
+  - Chinchina
+  - Santa Fé de Bogotá - Colômbia
+  - Salamina
+  - Itiruçu
+  - Aguascalientes
+  - Iguala - Guerrero
+  - Mirinzal
+  - Nova Palma
+  - Brooklyn - Nova York
+  - Indianapolis - Indiana
+  - Tallahassee - Flórida
+  - Guadalajara
+  - Puebla
+  - Ninove
+  - Brest, Bretagne
+  - Barakaldo
+  - Pforzheim
+  - Ilha de São VIcente
+  - Santa Catarina
+  - Wuppertal
+  - Paris
+  - Washington - Columbia
+  - Wolfersdorf - Bavaria
+  - Mission VIejo - Califórnia
+  - Minneapolis - Minnesota
+  - Sempeter Pri Gorici -Eslovenia
+  - Glasgow
+  - Mühlhausen/Thüringen
+  - Weymouth - Massachusetts
+  - Columbus - Indiana
+  - Indiana
+  - Frankfort - Ky
+  - Tudela
+  - Kollumerland En Nieuwk
+  - Groningen
+  - Wickede
+  - Martigues -  Alpes Côte D'Azur
+  - Veendam - Groningen
+  - Ludwigsfelde - Brandenburg
+  - Oak Lawn-Cook County-Illinois
+  - Irapuato - Guanajuato
+  - Actopan - Veracruz
+  - Eckernförde
+  - Chicago - Illinois
+  - Seymour - Indiana
+  - Nizwa - Al-Drakhlila
+  - Villeneuve-Saint-Georges
+  - Usingen
+  - Corregio (Re)
+  - Reggio Emilia
+  - Sassuolo - Modena
+  - Ludwigshafen Am Rhein
+  - Niceville
+  - Cartago - Valle
+  - La Jolla - California
+  - Candedo - Murça
+  - Vila Chã de Braciosa
+  - Vinhais - Bragança
+  - Meirinhos - Mogadouro
+  - Evansville - Indiana
+  - Trier
+  - La Libertad
+  - Jakarta/Dki Jakarta
+  - Sedalia - Mo
+  - Steinheim
+  - Freeport - Illinois
+  - Independence - Iowa
+  - Riudoms - Tarragona
+  - Kalisz - Wielkopolska
+  - Kutno
+  - Rouen - Seine-Maritime
+  - Oblast
+  - Nettetal
+  - Toronto - Canadá
+  - Waterloo - Ioxa
+  - Evanston - Illinois
+  - Clearwater - Flórida
+  - San Francisco - California
+  - Lexington - Kentucky
+  - Porto
+  - Póvoa de Lanhoso
+  - Braga
+  - Cumieira
+  - Xalapa - Veracruz
+  - Venadillo - Tolima
+  - San Agustin - Huila
+  - Xalapa
+  - Fusagasugá - Cundinamarca
+  - Lerida - Tolima
+  - Villavicencio - Meta
+  - Neiva
+  - Toluca - Edo. de México
+  - San Luis Potosí
+  - Chillán
+  - Rosário - Santa Fé
+  - La Plata - Buenos Aires
+  - Créteil - Val de Marne
+  - Cholargos - Attiki
+  - Alhaurin El Grande (Malaga)
+  - Le Mans
+  - Setúbal
+  - Zaragoza
+  - Meppel - Drenthe
+  - Radebeul
+  - Modena
+  - Champaign - Illinois
+  - Santa Fé de Bogotá
+  - Denver
+  - Evergreen Park - Illinois
+  - Rio Cuarto / Córdoba
+  - Alto Piquiri
+  - Monteria / Córdoba
+  - Chuquisaca / Oropeza
+  - Beaucouzé
+  - Garzon - Huila
+  - Stade
+  - Linyola - Lerida
+  - Galway
+  - Turbo - Antioquia
+  - Fontenay-Le-Comte
+  - Ibague / Tolima
+  - Mangangue / Bolivar
+  - Lodz - Lodzkie
+  - Levallois-Perret
+  - Geturtenbuch
+  - Auray - Morbihan
+  - Rio Negro - Antioquia
+  - Tarrega - Lleida
+  - Cap-De-La_Madeleine/Quebec
+  - José VIcente Zapata/Mendonza
+  - Strasbourg/Alsace
+  - Évora
+  - Villa Lujan / Capital / Tucuma
+  - San Austin - Huila
+  - Sevilla
+  - Pontault - Combault
+  - Clermont-Ferrand
+  - Tilburg
+  - Yverdon-Les-Bains
+  - Kreuzburg
+  - Bolivar - Cauca
+  - Tierralta - Córdoba
+  - Alagoinha
+  - Ibagué / Tolima
+  - Ronse - East-Flanders
+  - Kaufbeuren - Baviera
+  - San Mateo
+  - Fulda
+  - Oslo
+  - Sombor
+  - Tampico - Tamaulipas
+  - Don Matias - Antioquia
+  - Hiroshima
+  - Beirute
+  - Lourdes
+  - Shijiazhuang - Hebei
+  - Indianapolis
+  - Hubli - Karnataka
+  - Scottsdale - Arizona
+  - Soacha - Cundinamarca
+  - Paterson - New Jersey
+  - Ibagué Tolima
+  - Valledupar
+  - Trujillo - La Libertad
+  - Riosucio
+  - Anolaima - Cundinamarca
+  - Girardot
+  - Antioquia
+  - Manizales-Caldas
+  - Girardot - Cundinamarca
+  - Filadelfia
+  - Reggio Nell'Emilia
+  - Rio Cuarto - Cordoba
+  - Shizuoka Prefecture
+  - Amman
+  - Gaasterlân-Sleat
+  - Atizapan de Zaragoza
+  - Trinidad Ixtlan - Oaxaca
+  - Misantla - Veracruz
+  - Cordoba - Verazcruz
+  - Papantla de Olarte - Veracruz
+  - Plan de Arroyos - Veracruz
+  - Texcoco
+  - Cordoba - Veracruz
+  - Huatusco - Veracruz
+  - Oak Lawn
+  - Alton
+  - Brownsville
+  - Houston
+  - Ithaca
+  - Brenham
+  - Galveston/Texas
+  - San Antonio
+  - Fort Worth - Tarrant
+  - Almaty
+  - Nassau Bay
+  - Escambia County
+  - Laredo
+  - Houstone
+  - Lackland Afb
+  - Hounton
+  - Plano
+  - Dallas County
+  - Lódz
+  - Kraków
+  - Karlsruhe
+  - Laval
+  - Stadthagen
+  - Solothurn - Solothurn
+  - Avellaneda - Santa Fé
+  - Saintes
+  - Vielha
+  - Emmen - The Netherlands
+  - San Gil - Santander
+  - Bazoun
+  - Oklahoma
+  - Cuba Township
+  - Park Ridge
+  - Sampués - Sucre
+  - Medellin - Colômbia
+  - Roldanillo - Colômbia
+  - Ibagué - Colômbia
+  - Chinú - Córdoba
+  - Tolu - Sucre
+  - San Pedro - Sucre
+  - Chinu - Córdoba
+  - Salta
+  - Bologna
+  - Pehuajo
+  - Medellín
+  - Galeras
+  - Cartago
+  - La Guajira
+  - Ixhuatlán Del Cafe
+  - El Carmen de Bolívar
+  - Colipa
+  - San Miguel Del Rio
+  - Since
+  - Apartado
+  - Brest
+  - La Yerbabuena
+  - Versailles - Yvelines
+  - Ingolstadt
+  - Berlin
+  - Neuwied
+  - Tacuarembó
+  - Valjevi
+  - Göttingen
+  - Burgas
+  - Ituitaba
+  - Mclean
+  - Coahuila
+  - Born
+  - Bahía Blanca
+  - San Andres Lovene
+  - Pueblillo
+  - Besançon
+  - Barra da Estiva
+  - Cuaspud
+  - Misantla
+  - Galpón - Salta
+  - Canalete1
+  - Chiapas
+  - Rivera
+  - Olesa de Montserrat
+  - Chaco
+  - Zevenaar
+  - Ota
+  - Bordeaux
+  - Steenwijk
+  - Rio Cuarto
+  - Kokomo
+  - Guateque
+  - Genova
+  - Valencia - Valencia
+  - Bautzen
+  - Schiedam
+  - Schwarzenburg
+  - Buga
+  - Stavanger
+  - Lodz/Lodzkie
+  - Necochea
+  - Rotterdam/South Holand
+  - Elblag
+  - Breda
+  - Brugge
+  - Bello
+  - Bogota
+  - Liestal
+  - Warsaw
+  - Gravenhage
+  - Scharding
+  - Scandiano
+  - Strasbourg
+  - Bobligen
+  - Cirardot
+  - Shanghai
+  - Zelhem
+  - Envigado
+  - Igualada/Barcelona
+  - Hidalgo County / Texas
+  - Pharr / Texas
+  - Lamezia Terme
+  - Pupiales
+  - Pitalito
+  - Mcallen / Texas
+  - Eindhoven
+  - Agustin Codazzi
+  - Tuquerres
+  - S-Hertogenbosch
+  - Sevillla
+  - Duval County / Florida
+  - San Antonio / Texas
+  - Brownsville / Texas
+  - Benito Juarez
+  - Travis County / Texas
+  - Estroncamento
+  - Içara
+  - Ardmore / Oklahoma
+  - Forbach
+  - Krakow
+  - Leon
+  - Lendersdorf
+  - Ajaltoun
+  - Lodz
+  - Soest
+  - Villagran
+  - Vlisingen
+  - Salamanca
+  - Hamburg
+  - Veldhoven
+  - Girardota
+  - São Miguel do Guaporé
+  - Pueblo Nuevo
+  - Poznan
+  - Toluviejo
+  - Palmito
+  - Cundinamarca
+  - Shushufindi
+  - San Cayetano
+  - Mandirituba
+  - Belen de Umbria
+  - Bad Neuenahr-Ahrweiler
+  - Dachau
+  - Andoain
+  - Bikfaya
+  - Calidonia / Panamá
+  - Nijmegen
+  - Bydgoszcz
+  - Kanagawa
+  - Foggia
+  - Tres Arroyos
+  - Urbino
+  - Ubaira
+  - Rijeka
+  - Pasto / Nariño
+  - Santa Isabel / Tolima
+  - Boiro / La Coruña
+  - Tabarka / Jandoubah
+  - Huesca / Huesca
+  - Hertogenbosch
+  - Bucaramanga / Santander
+  - Tilburg/Noord-Brabant
+  - Mariquita
+  - Venray/Limburg
+  - Honda Tolima
+  - San Agustin
+  - Pacora
+  - Manizalez
+  - Santafe de Bogotá
+  - La Dorada
+  - Goirle/Noord-Brabant
+  - Ciudad de México
+  - Santafe de Bogota Dc
+  - São Sebastião da Pedreira
+  - Santarém (São Nicolau)
+  - Aylesbury
+  - Friedberg
+  - Lower Hutt
+  - Finley
+  - Invercargill
+  - Blenheim
+  - New Plymouth
+  - Wellington
+  - Selangor/Malaysia
+  - Auckland
+  - Palmerston North
+  - Esslingen Am Neckar
+  - Gent / Stad
+  - Koforidua / New Juaben
+  - Manizales / Caldas
+  - Pcia Roque Sáenz Peña / Chaco
+  - Pacora Caldas
+  - Salquedo
+  - Rio Quarto
+  - Sion
+  - Birthing Unit Winton
+  - Christchurch
+  - Yuanyang/Henan
+  - Trichy
+  - Jodhpur
+  - Salta-Capital
+  - Leiria
+  - Valasské Mezirící
+  - Quininde
+  - Huigra
+  - Belgrade
+  - Thoothukudi
+  - Craigavon
+  - Moerdijk
+  - Goes
+  - Madurai
+  - Wilmersdorf/Berlim
+  - Billrothstrabe
+  - Salgar
+  - Antiqua
+  - Medelin
+  - Hengelo
+  - Brielle
+  - Villabona / Guipuzkoa
+  - Sevenum
+  - Tuquerres/Nariño
+  - Barran Cabermeja
+  - Santafe de Bogota/Cundinamarca
+  - Simacota
+  - Santafé de Bogotá
+  - Toribio / Cauca
+  - Tabaporã
+  - Breda/Brabant
+  - Maasbracht
+  - Sevilha
+  - Winton Birthing Unit
+  - Palmeston North
+  - Timaru
+  - Treinta Y Tres
+  - Ibague/Tolima
+  - Bogota/Cundinamarca
+  - Waikato Hamilton
+  - Chaparral/Tolima
+  - Coloso
+  - Palma-San Dureta
+  - Masterton
+  - Cagliari
+  - Waipukurau
+  - Malaga
+  - Malaga/Santander
+  - Castelo de Paiva
+  - Itagua
+  - Tandil
+  - Pensilvania
+  - Furquim
+  - Manizales, Caldas
+  - Caldas, Manizales
+  - La Libertad/Ascope
+  - Çankaya / Ancara
+  - Mercedes
+  - Charata
+  - Padova
+  - Orito-Putumayo
+  - Villarrica - Tolima
+  - Toma Butta
+  - Nieuwegein
+  - Wiltz
+  - Azare Town
+  - Stirling
+  - Trichur
+  - Cuernavaca
+  - Offenbach Am Main
+  - Enshede
+  - Elizondo - Baztan
+  - Venio
+  - Guamal
+  - Teloloapan
+  - Taxco de Alarcon
+  - Pas-De-Calais
+  - Lleida
+  - Zwijdrecht
+  - Nantes
+  - Denville/Nova Jersey
+  - Recanati
+  - Pachuca
+  - Hidalgo
+  - San Pedro de Los Naranjos
+  - Vitry Sur Seine
+  - Catanzaro
+  - San Juan de Rioseco
+  - Ibague, Tolima
+  - Chimbote
+  - Ancash
+  - Tolima-Ibague
+  - Florencia
+  - Ciudad de Mexico
+  - Rarocaine
+  - Tonsberg
+  - Santa Ana
+  - Magangue
+  - Goirle
+  - Saravena
+  - Busbanza
+  - Fortul
+  - Utrecht
+  - Orleans
+  - Singelejo
+  - Chinu
+  - Montpellier
+  - Ciudad Del Este
+  - San Antonio de Tachira
+  - Hertogenbosh
+  - Chilapa
+  - Triunfo - Santa Rosa
+  - Hidrolândia
+  - Würzburg
+  - Burgos
+  - Heemskerk
+  - Tlalnepantla - México
+  - Acaraú
+  - Pender, Nebraska
+  - Ostfildern - Baden-Wurttemberg
+  - Kirsi - Burkinabé
+  - Grand-Bourg
+  - Serra Branca
+  - São Francisco do Maranhão
+  - Itapecuru- Mirim
+  - Barquinimeto - Lara
+  - Pistoia
+  - Nottingham Road - South Africa
+  - Joaquin V. Gonzalez - Salta
+  - Burkianabe - Koudougou
+  - Luxembourg
+  - Carpina
+  - Riachão de Jacuipe
+  - Miraflores - Lima
+  - Mosotho
+  - Gishe
+  - Agaaro Gogiti
+  - Lexington
+  - Mayaguez
+  - North Gondar
+  - Masvingo
+  - Bahiablanca
+  - Palmira
+  - Mauritius
+  - Düsseldorf
+  - Jos-North
+  - Cumaru
+  - Marcelino VIeira
+  - Ikole-Ekiti
+  - Kanawa
+  - Ilha do Governador
+  - Itaguaís
+  - Cametá
+  - Etiópia
+  - Dosquebradas
+  - San Sebastian
+  - La Jagua de Ibirico
+  - Mari
+  - Kafa
+  - Port Harcourt - Owerri
+  - Rio Consulado
+  - Iacanga
+  - Caacupé
+  - Columbus
+  - Lake Zurich
+  - Port-Bouet
+  - Farroupilha
+  - Santa Quitéria do Maranhão
+  - São João de Mereti
+  - Piaçabuçu
+  - Gwanda
+  - São VIcente do Sul
+  - Kitovu
+  - Pocinhos
+  - Winneba
+  - Rio Blanco
+  - Cagos
+  - Gurarulhos
+  - Ashanti
+  - Santo Amaro
+  - Ortigueira
+  - Confresa
+  - Vila Bela da Ss. Trindade
+  - Ghanaian
+  - Yamaltu Deba
+  - Dakahliya
+  - Kolia
+  - Amata Uburu
+  - Port de Paix
+  - Ipaumirim
+  - Herval
+  - Muritaba
+  - Gwammaja
+  - Xaxim
+  - Polatina
+  - Parma
+  - Kurunegala
+  - Hausawa
+  - Santa
+  - Gugupi
+  - Njunu
+  - Babonantou
+  - Ndoungue
+  - São Luiz
+  - Santo Antônio do Ampro
+  - Guaratingueta
+  - Sendafa
+  - Jigawa
+  - Degem
+  - Upth Port Harcoult
+  - Pakpattan
+  - Enugwy - Ukwu
+  - Etip Ediene
+  - Otuocha
+  - Vizeu
+  - Vitor Meireles
+  - Ogidi
+  - La Coruña
+  - San Francisco Dellaishi
+  - Pirassunnga
+  - Treze Tílias
+  - Mokwa
+  - Faisalabad
+  - Damielta
+  - Jimeta
+  - Addis Alem
+  - Savalou
+  - Masaka
+  - Campo Alegre de Lourdes
+  - Presidente Figueiredo
+  - Kunar
+  - Terezina
+  - Bernardo de Irigoyen
+  - Japurá
+  - Paraiso do Tocantis
+  - Montezuma
+  - Sargodha
+  - Miguel Calmon
+  - Bahawalpur
+  - Enna
+  - Lagoa da Pedra
+  - Mbo-Bafoussam
+  - Ojolokpa Amuda
+  - Punjab
+  - Dois VIzinhos
+  - Pointe - Noite
+  - Mardan
+  - Surabaya
+  - Rongo
+  - Riacho dos Machados
+  - Piuma
+  - Maracanã-Pará
+  - Belém - Pará
+  - Medicilândia-Pará
+  - São Luís-Maranhão
+  - São Luíz do Maranhão
+  - Itaqui-Rio Grande do Sul
+  - Belém-Pará
+  - Itapecuru Mirim-Maranhão
+  - Rio Grande / Rs
+  - Cametá-Pará
+  - Curuçá - Pará
+  - Parnamirim-
+  - Restinga Sêca-Rio Grande do Su
+  - Não Informado---
+  - Uruguaiana-Rio Grande do Sul
+  - Df
+  - Brejo-Maranhão
+  - Ms
+  - Paragominas - Pará
+  - Castanhal-Pará
+  - Paulo Ramos-Maranhão
+  - Imperatriz-Maranhão
+  - Santa Maria-Rio Grande do Sul
+  - Pedro Canario
+  - Salinópolis - Pará
+  - Santiago-Rio Grande do Sul
+  - Marau-Rio Grande do Sul
+  - Coroatá-Maranhão
+  - Ananindeua-Pará
+  - Santa Maria do Pará-Pará
+  - Açailândia-Maranhão
+  - Redentora-Rio Grande do Sul
+  - Não Informado-Não Informado
+  - Governador Nunes Freire-Maranh
+  - São Luís Gonzaga do Maranhão-M
+  - Lorena / Sp
+  - Sarandi-Rio Grande do Sul
+  - Al
+  - Novo Repartimento-Pará
+  - Caicó-
+  - Castanhal - Pará
+  - Santa Cruz do Sul-Rio Grande D
+  - Pb
+  - Rio de Janeiro-Rio de Janeiro
+  - Uberlância
+  - João Lisboa-Maranhão
+  - Cachoeira do Sul-Rio Grande Do
+  - Boa VIsta do Buricá-Rio Grande
+  - Cametá - Pará
+  - Rio Grande-Rio Grande do Sul
+  - Três de Maio-Rio Grande do Sul
+  - Paço do Lumiar-Maranhão
+  - Limoeiro do Norte-
+  - Marapanim-Pará
+  - Agudo-Rio Grande do Sul
+  - Ba
+  - Pr
+  - Palmeira das Missões-Rio Grand
+  - Altamira-Pará
+  - Informação Indisponível
+  - Santos-São Paulo
+  - São Pedro do Sul-Rio Grande Do
+  - São Pedro-
+  - Cruz Alta-Rio Grande do Sul
+  - São José de Ribamar-Maranhão
+  - Guarulhos-São Paulo
+  - Santa VItória do Palmar / Rs
+  - Inhangapi-Pará
+  - Espirito Santo
+  - Jaguari-Rio Grande do Sul
+  - Açailândia - Maranhão
+  - Pinheiro-Maranhão
+  - Crissiumal-Rio Grande do Sul
+  - Acará-Pará
+  - Mossoró-
+  - Marapanim - Pará
+  - Soure-Pará
+  - Ji-Paraná-Rondônia
+  - Capanema - Pará
+  - Baião-Pará
+  - Buriti-Maranhão
+  - Go
+  - Arari-Maranhão
+  - Rosário do Sul-Rio Grande do S
+  - Ijuí-Rio Grande do Sul
+  - Araruama-
+  - São José dos Campos-
+  - Não Informado-Ba
+  - Ma
+  - Perdizes / Mg
+  - Peri Mirim-Maranhão
+  - Nina Rodrigues / Ma
+  - Júlio de Castilhos-Rio Grande
+  - Parauapebas-Pará
+  - Atilio VIvacqua
+  - Barão de Tromai - Maranhão
+  - Acari-
+  - Abaetetuba-Pará
+  - Santo Augusto-Rio Grande do Su
+  - Porto Alegre-Rio Grande do Sul
+  - Amarante - Piauí
+  - Pelotas / Rs
+  - Santo Antônio-
+  - Capitão Poço - Pará
+  - Conceicao da Barra
+  - São Paulo-São Paulo
+  - Concórdia do Pará - Pará
+  - São Caetano de Odivelas-Pará
+  - Anapurus-Maranhão
+  - Tutóia-Maranhão
+  - Ananindeua - Pará
+  - Bragança-Pará
+  - São Luís / Ma
+  - Osório-Rio Grande do Sul
+  - Bom Jardim-Maranhão
+  - Santa Isabel do Pará-Pará
+  - Cruzeta-
+  - Macaíba-
+  - Parnaíba-Piauí
+  - São Luiz Gonzaga-Rio Grande Do
+  - Vargem Grande-Maranhão
+  - Chiapetta-Rio Grande do Sul
+  - Governador Edison Lobão-Maranh
+  - Touros-
+  - Currais Novos-
+  - Abaetetuba - Pará
+  - Araripina-Pernambuco
+  - Augusto Corrêa-Pará
+  - Pedreiras-Maranhão
+  - Morros-Maranhão
+  - Frederico Westphalen-Rio Grand
+  - Panambi-Rio Grande do Sul
+  - Caculé - Bahia
+  - Sobral-
+  - Pindaré-Mirim-Maranhão
+  - São Paulo do Potengi-
+  - Tucuruí-Pará
+  - Santana do Livramento-Rio Gran
+  - Macau-
+  - Igarapé-Açu-Pará
+  - Florânia-
+  - Igarapé-Miri-Pará
+  - Camaquã / Rs
+  - Dom Eliseu - Pará
+  - Veranópolis / Rs
+  - Araguatins-Tocantins
+  - Luziânia-Goiás
+  - Chapadinha-Maranhão
+  - Coronel Pacheco
+  - São Sebastião do Paraiso
+  - Wanderlândia
+  - Arapoti
+  - Uruana de Minas
+  - Piritiba
+  - Tóquio
+  - Urucuia
+  - Pirangí
+  - Petropolis
+  - Ourolândia
+  - Valencia
+  - Belogradchik
+  - Szczecin
+  - Eugene - Eua
+  - Newton - Massachusetts
+  - Sofia
+  - Congonhal
+  - Meragna
+  - Tarrant County - Texas
+  - St Louis City
+  - Los Angeles-California
+  - Maricopa-Phoenix
+  - Casapalca(Peru)
+  - Panorama
+  - Scarborough
+  - Madrid - Cundinamarca
+  - Jacuipe
+  - Tehran
+  - Jandaia
+  - Acaia
+  - Uruburetama
+  - Cansanção
+  - Jaraguá
+  - Água Branca
+  - Grossos
+  - Macau
+  - Pontas
+  - Sento Sé
+  - Santana do Ipanema
+  - Curicuri
+  - Pedrão
+  - Helwan - Cairo
+  - Teodoro Sampaio
+  - Iguatú
+  - Conceição do Almeida
+  - São João de Pirabas
+  - Marilha
+  - Redenção do Gurguéia
+  - Inhambupe
+  - Porto da Folha
+  - Núcleo Bandeirantes
+  - Exu
+  - Akron
+  - Slidell
+  - Santiago de Chuco
+  - Iguaí
+  - Com Pedrito
+  - Viana
+  - Paula Lima
+  - La Habana - Cuba
+  - Pôrto Alegre
+  - Arvorezinha
+  - Itumirim
+  - Cairo - Egito
+  - Faxinal dos Guédes
+  - Nova Itarana
+  - Dkrness - Dakahlia
+  - Conceição do Monte Alegre
+  - Santo Antônio da Patrulha
+  - Perdoes
+  - Boqueirão
+  - Guéret
+  - Frimley - Inglaterra
+  - Anhumas
+  - Penapolis
+  - Corvo
+  - Oncativo
+  - Ituaçu
+  - Manoel VIana
+  - Popayan (Cauca)
+  - Cuautepec - Hidalgo
+  - Peralillo
+  - Rasht
+  - Coruña
+  - Paranhos-Porto
+  - Huaylas - Ancash
+  - Lamas - Sam Martin
+  - Santo Antonio da Platina
+  - Ilheus
+  - Jequitibá
+  - Conceição das Alagoas
+  - Iretama
+  - Ipiau
+  - Primeiro de Maio
+  - Dartford
+  - Enugu - Benin
+  - Salamanca - Guanajuato
+  - Liv. de Nossa Senhora
+  - Sales Oliveira
+  - Paranapuã
+  - Balurghat
+  - Jiquipilas-Chiapas
+  - Santo Inácio do Piauí
+  - São José de Espinharas
+  - Borborema
+  - Cuba
+  - Garupi
+  - Benjamin Contant
+  - Tuparetama
+  - Canela
+  - Pedra
+  - Queens - New York
+  - Monte Alegre do Sul
+  - Santo Antonio do Amparo
+  - Arataca
+  - Datas
+  - Koriyma
+  - Kita Azumi-Gun
+  - Nagóia
+  - Santaluz
+  - Faro
+  - Governador Valadres
+  - Carmo do Cajurú
+  - Danbury, Connecticut
+  - Jaiba
+  - São Gonçalo do Sapucai
+  - Jí-Parana
+  - Virginopoles
+  - Seritinga
+  - Piedade de Caratinga
+  - Canta
+  - Cambará
+  - Coronel VIvida - Pr
+  - Onomichi
+  - Visconde de Rio Branco
+  - Paracambi - Rio de Janeiro
+  - Santa Maria do Suacui
+  - Pindaí
+  - Dionisio
+  - Dores do Indaía
+  - Jaguarari
+  - Ribeirão Vermelho
+  - Conquista
+  - Passabém
+  - Lagoa Grande
+  - Kisarazu
+  - Guangdong
+  - São Paulo - Sp
+  - Itapagipe
+  - Pecanha
+  - Campinorte
+  - Goianápolis
+  - Aurilandia
+  - Arapua
+  - Anjo, Província de Aichi
+  - Rio Panaraíba
+  - Bom Jesus do Amparo
+  - Itauçu
+  - Salto da Divisa
+  - Cambrigde Massachusetts
+  - Itapací
+  - José Raydan
+  - Coronel Fabríciano
+  - Pompéu - Mg
+  - Belo Horinzonte
+  - Nova-Iorque
+  - Fujisawa-Shi
+  - Lecce/Le
+  - Casimiro de Abreu
+  - Campos de Julio
+  - Blumenau - Sc
+  - Natal-Rn
+  - Ponte Nova Mg
+  - São Félix do Coribe
+  - Lajinha-Mg
+  - Rio Pomba-Mg
+
+Coluna: UF
+Total de valores únicos: 30
+Valores únicos:
+  - MG
+  - SP
+  - RS
+  - RJ
+  - GO
+  - ES
+  - BA
+  - DF
+  - CE
+  - PR
+  - SC
+  - TO
+  - PE
+  - AM
+  - PI
+  - PA
+  - MS
+  - PB
+  - RN
+  - RO
+  - NI
+  - MA
+  - AL
+  - NJ
+  - MT
+  - SE
+  - RR
+  - AP
+  - AC
+  - ZZ
+
+Coluna: Pais
+Total de valores únicos: 111
+Valores únicos:
+  - Brasil
+  - Uruguai
+  - Venezuela
+  - Equador
+  - Estados Unidos da América
+  - Japão
+  - Não Informado
+  - Inglaterra
+  - Guiné-Bissau
+  - Portugal
+  - Gabão
+  - Paraguai
+  - Itália
+  - Rússia
+  - França
+  - Angola
+  - Espanha
+  - Suíça
+  - Holanda
+  - Chile
+  - Senegal
+  - Congo
+  - Haiti
+  - Bolívia
+  - Benin
+  - Moçambique
+  - Peru
+  - Cabo Verde
+  - Guine Equatorial
+  - Nigéria
+  - Índia
+  - Colômbia
+  - Paquistão
+  - Panamá
+  - Etiópia
+  - Noruega
+  - Guatemala
+  - Cuba
+  - El Salvador
+  - México
+  - Costa Rica
+  - Honduras
+  - Camarões
+  - Argentina
+  - Uganda
+  - Síria
+  - São Tomé e Príncipe
+  - Canadá
+  - Escócia
+  - Alemanha
+  - Ucrânia
+  - Bélgica
+  - Hungria
+  - África do Sul
+  - Zâmbia
+  - Gâmbia
+  - Ruanda
+  - Tanzânia
+  - Gana
+  - Zimbábue
+  - Mali
+  - Burkina Faso
+  - Malawi
+  - Egito
+  - Niger
+  - Lesoto
+  - Togo
+  - Costa do Marfim
+  - Quênia
+  - Líbia
+  - Libéria
+  - Suazilândia
+  - Botsuana
+  - Namibia
+  - Áustria
+  - Reino Unido
+  - Irã
+  - Ceilao
+  - Nicarágua
+  - Porto Rico
+  - Barbados
+  - Finlândia
+  - República Dominicana
+  - Austrália
+  - Turquia
+  - Polônia
+  - Eslovênia
+  - Oman
+  - Indonésia
+  - Grécia
+  - Irlanda
+  - República da Sérvia
+  - Líbano
+  - China
+  - Jordânia
+  - Sérvia
+  - Bulgária
+  - República da Croácia
+  - Tunísia
+  - Países Baixos
+  - Nova Zelândia
+  - Malásia
+  - República Tcheca
+  - Irlanda do Norte
+  - Luxemburgo
+  - Marrocos
+  - Sri Lanka
+  - Afeganistão
+  - Macau
+  - Guiana
+  - Bahamas
+
+Coluna: FormaIngresso
+Total de valores únicos: 29
+Valores únicos:
+  - Estudante Não Vinculado - Pós Graduação
+  - Vestibular
+  - Portador de Diploma
+  - Mudança de Curso
+  - Processo Seletivo Alternativo - Vestibular
+  - Transferência
+  - SiSU - Sistema de Seleção Unificada
+  - Processo Seletivo Alternativo - SiSU
+  - Transferência Ex-ofício
+  - Rematrícula
+  - SISU - Mandado Judicial
+  - Enem
+  - SISU - Sistema de Seleção Unificada
+  - Convênio - PEC/G
+  - ENEM
+  - Sequência
+  - Programa Especial
+  - DINTER
+  - Sisu
+  - Mobilidade
+  - Estudante Não Vinculado
+  - Estudante Vinculado a outra Instituição - Pós Grad
+  - Estudante Especial
+  - Mobilidade Acadêmica
+  - Plataforma Freire - PAR
+  - ENEM - Mandado Judicial
+  - MINTER
+  - Intercâmbio
+  - Habilitação
+
+Coluna: GrupoCotaConvocado
+Total de valores únicos: 49
+Valores únicos:
+  - Não informado ou não se aplica
+  - Ampla concorrência
+  - Estudante de escola pública, Renda familiar mensal maior que 1,5 salários mínimos, Etnia (Autodeclarado Preto, Pardo ou Índio)
+  - Estudante de escola pública, Renda familiar mensal menor ou igual a 1,5 salários mínimos, Outro
+  - Estudante de escola pública, Renda familiar mensal maior que 1,5 salários mínimos, Outro
+  - Estudante de escola pública, Renda familiar mensal menor ou igual a 1,5 salários mínimos, Etnia (Autodeclarado Preto, Pardo ou Índio)
+  - Estudante de escola pública, Renda mensal maior que 1,5 salários mínimos(por pessoa da família), Etnia: Autodeclarado Preto, Pardo ou Índio
+  - Estudante de escola pública, Renda mensal menor ou igual a 1,5 salários mínimos(por pessoa da família), Etnia: Autodeclarado Preto, Pardo ou Índio
+  - Estudante de escola pública, Renda mensal menor ou igual a 1,5 salários mínimos(por pessoa da família), Outro
+  - Estudante de escola pública, Renda mensal maior que 1,5 salários mínimos(por pessoa da família), Outro
+  - Mudança de Curso
+  - Portador de Diploma
+  - Rematrícula
+  - Estudante de escola pública, Renda mensal maior que 1,5 salários mínimos(por pessoa da família)
+  - Estudante de escola pública, Renda mensal menor ou igual a 1,5 salários mínimos(por pessoa da família)
+  - Transferência Externa
+  - Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)
+  - Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)
+  - Ampla Concorrência
+  - Candidatos com deficiência que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)
+  - Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)
+  - Candidatos com deficiência autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)
+  - Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)
+  - Candidatos com deficiência que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)
+  - Candidatos com deficiência autodeclarados pretos, pardos ou indígenas, que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)
+  - Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas.
+  - Candidatos com renda familiar bruta per capita igual ou inferior a 1 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas.
+  - Candidatos autodeclarados quilombolas, com renda familiar bruta per capita igual ou inferior a 1 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas.
+  - Candidatos autodeclarados pretos, pardos ou indígenas, independentemente da renda, que tenham cursado integralmente o ensino médio em escolas públicas.
+  - Candidatos que, independentemente da renda, tenham cursado integralmente o ensino médio em escolas públicas.
+  - Candidatos com deficiência que, independentemente da renda, tenham cursado integralmente o ensino médio em escolas públicas.
+  - Candidatos com deficiência, que tenham renda familiar bruta per capita igual ou inferior a 1 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas.
+  - Reserva p/ negros (pretos ou pardos) ou indígenas
+  - Reserva p/ pessoa com deficiência
+  - Demanda social
+  - Egressos de escolas do campo
+  - Trabalhadores do campo
+  - Docentes que atuam ou já atuaram em escolas do campo
+  - Índios e quilombolas
+  - Sujeitos com vínculos aos movimentos sociais do campo
+  - Educadores populares ou monitores vinculados à educação do campo
+  - Vagas Reservadas para estudantes de escola pública, pertencente à família com renda mensal maior que 1,5 salário mínimo per capita e autodeclarado Preto, Pardo ou Indígena
+  - Vagas Reservadas para estudantes de escola pública, pertencente à família com renda mensal maior que 1,5 salário mínimo per capita e autodeclarado Outro
+  - Vagas Reservadas para estudantes de escola pública, pertencente à família com renda mensal menor ou igual a 1,5 salário mínimo per capita e autodeclarado Preto, Pardo ou Indígena
+  - Vagas Reservadas para estudantes de escola pública, pertencente à família com renda mensal menor ou igual a 1,5 salário mínimo per capita e autodeclarado Outro
+  - Est. esc. pública, Renda mensal bruta maior a 1,5 salário mínimo (por pessoa da família), Etnia: Pretos, Pardos e Indígenas SEM Deficiência
+  - Est. esc. pública, Renda mensal bruta menor ou igual a 1,5 salário mínimo (por pessoa da família), Etnia: Independente de raça SEM Deficiência
+  - Est. esc. pública, Renda mensal bruta menor ou igual a 1,5 salário mínimo (por pessoa da família), Etnia: Pretos, Pardos e Indígenas SEM Deficiência
+  - Est. esc. pública, Renda mensal bruta maior a 1,5 salário mínimo (por pessoa da família), Etnia: Independente de raça SEM Deficiência
+
+Coluna: AnoAdmissao
+Total de valores únicos: 15
+Valores únicos:
+  - 2015
+  - 2010
+  - 2011
+  - 2012
+  - 2013
+  - 2014
+  - 2016
+  - 2017
+  - 2018
+  - 2019
+  - 2020
+  - 2021
+  - 2022
+  - 2023
+  - 2024
+
+Coluna: Curso
+Total de valores únicos: 201
+Valores únicos:
+  - Administração
+  - Administração - Integral
+  - Administração - Noturno
+  - Agronegócio
+  - Agronomia
+  - Arquitetura e Urbanismo
+  - Bacharelado em Educação Física
+  - Bioquímica
+  - Ciência da Computação
+  - Ciência e Tecnologia de Alimentos
+  - Ciência e Tecnologia de Laticínios
+  - Ciências Biológicas
+  - Ciências Biológicas - Licenciatura
+  - Ciências Contábeis
+  - Ciências Econômicas
+  - Ciências Econômicas - Ênfase em Agronegócio
+  - Ciências Econômicas - Ênfase em Economia
+  - Ciências Sociais
+  - Comunicação Social
+  - Cooperativismo
+  - Dança
+  - Direito
+  - Doutorado em Administração
+  - Doutorado em Agroquímica
+  - Doutorado em Arquitetura e Urbanismo
+  - Doutorado em Biologia Animal
+  - Doutorado em Biologia Celular e Estrutural
+  - Doutorado em Bioquímica Agrícola
+  - Doutorado em Bioquímica Aplicada
+  - Doutorado em Botânica
+  - Doutorado em Ciência da Computação
+  - Doutorado em Ciência da Nutrição
+  - Doutorado em Ciência e Tecnologia de Alimentos
+  - Doutorado em Ciência Florestal
+  - Doutorado em Ecologia
+  - Doutorado em Economia Aplicada
+  - Doutorado em Economia Doméstica
+  - Doutorado em Educação Física
+  - Doutorado em Engenharia Agrícola
+  - Doutorado em Engenharia Civil
+  - Doutorado em Entomologia
+  - Doutorado em Estatística Aplicada e Biometria
+  - Doutorado em Extensão Rural
+  - Doutorado em Física
+  - Doutorado em Física Aplicada
+  - Doutorado em Fisiologia Vegetal
+  - Doutorado em Fitopatologia
+  - Doutorado em Fitotecnia
+  - Doutorado em Genética e Melhoramento
+  - Doutorado em Medicina Veterinária
+  - Doutorado em Meteorologia Agrícola
+  - Doutorado em Meteorologia Aplicada
+  - Doutorado em Microbiologia Agrícola
+  - Doutorado em Solos e Nutrição de Plantas
+  - Doutorado em Zootecnia
+  - Doutorado Multicêntrico em Química  de Minas Gerais
+  - Doutorado Multicêntrico em Química de Minas Gerais
+  - Economia Doméstica
+  - Educação Física
+  - Educação Física - Licenciatura
+  - Educação Infantil
+  - Enfermagem
+  - Engenharia Agrícola e Ambiental
+  - Engenharia Ambiental
+  - Engenharia Civil
+  - Engenharia de Agrimensura e Cartográfica
+  - Engenharia de Alimentos
+  - Engenharia de Produção
+  - Engenharia Elétrica
+  - Engenharia Florestal
+  - Engenharia Mecânica
+  - Engenharia Química
+  - Estudante em Mobilidade - Pós-Graduação
+  - Estudante Especial - Graduação
+  - Estudante Especial VInculado - Pós-Graduação
+  - Estudante Não VInculado
+  - Estudante Não VInculado - Pós Graduação
+  - Estudante Não VInculado - Pós-Graduação
+  - Estudante Não-Vinculado - Graduação
+  - Estudante Não-Vinculado - Pós-Graduação
+  - Estudante VInculado - Pós-Graduação
+  - Física
+  - Física - Licenciatura
+  - Geografia
+  - História
+  - Lato Sensu em Administração Pública Municipal
+  - Lato Sensu em Automação e Controle de Processos
+  - Lato Sensu em Automação e Controle de Processos Agrícolas e Industriais
+  - Lato Sensu em Clínica e Cirurgia Veterinárias
+  - Lato Sensu em Controladoria e Finanças
+  - Lato Sensu em Coordenação Pedagógica
+  - Lato Sensu em Desenvolvimento de Sistemas Para A Internet
+  - Lato Sensu em Educ. Profissional Integrada à Educ. Básica na Modalidade de Educ. de Jovens e Adultos
+  - Lato Sensu em Educação Ambiental com Ênfase em Espaços Educadores Sustentáveis
+  - Lato Sensu em Engenharia de Segurança do Trabalho
+  - Lato Sensu em Futebol
+  - Lato Sensu em Geoprocessamento, Levantamento e Interpretação de Solos
+  - Lato Sensu em Gestão Ambiental
+  - Lato Sensu em Gestão da Educação Municipal
+  - Lato Sensu em Gestão da Produção
+  - Lato Sensu em Gestão de P. Púb. com F. na T. de Gên. e Raça
+  - Lato Sensu em Gestão de P. Púb. com F. na T. do Gên. e Raça
+  - Lato Sensu em Gestão Empresarial e Ambiental
+  - Lato Sensu em Gestão Escolar
+  - Lato Sensu em Gestão Pública
+  - Lato Sensu em Gestão Pública Municipal
+  - Lato Sensu em Inteligência Artificial e Computacional
+  - Lato Sensu em Mba em Gestão Empresarial
+  - Lato Sensu em Nutrição e Saúde
+  - Lato Sensu em Preservação e Difusão de Estruturas e Sítios Arqueológicos A Céu Aberto
+  - Lato Sensu em Proteção de Plantas
+  - Lato Sensu em Recuperação de Áreas Degradadas
+  - Lato Sensu em Residência em Medicina Veterinária
+  - Lato Sensu em Residência Médica Veterinária
+  - Lato Sensu em Sistemas Fotovoltaicos Isolados e Conectados à Rede Elétrica
+  - Lato Sensu em Tecnologia de Celulose e Papel
+  - Letras
+  - Licenciatura em Ciências Biológicas
+  - Licenciatura em Educação do Campo - Ciências da Natureza
+  - Licenciatura em Educação Física
+  - Licenciatura em Física
+  - Licenciatura em História - Ead
+  - Licenciatura em Matemática
+  - Licenciatura em Matemática - Ead
+  - Licenciatura em Pedagogia
+  - Licenciatura em Química
+  - Matemática
+  - Matemática - Licenciatura
+  - Medicina
+  - Medicina Veterinária
+  - Mestrado em Administração
+  - Mestrado em Agroecologia
+  - Mestrado em Agronomia (Produção Vegetal)
+  - Mestrado em Agroquímica
+  - Mestrado em Arquitetura e Urbanismo
+  - Mestrado em Biologia Animal
+  - Mestrado em Biologia Celular e Estrutural
+  - Mestrado em Bioquímica Agrícola
+  - Mestrado em Bioquímica Aplicada
+  - Mestrado em Botânica
+  - Mestrado em Ciência da Computação
+  - Mestrado em Ciência da Nutrição
+  - Mestrado em Ciência e Tecnologia de Alimentos
+  - Mestrado em Ciência Florestal
+  - Mestrado em Ecologia
+  - Mestrado em Economia
+  - Mestrado em Economia Aplicada
+  - Mestrado em Economia Doméstica
+  - Mestrado em Educação
+  - Mestrado em Educação Física
+  - Mestrado em Engenharia Agrícola
+  - Mestrado em Engenharia Civil
+  - Mestrado em Engenharia Química
+  - Mestrado em Entomologia
+  - Mestrado em Estatística Aplicada e Biometria
+  - Mestrado em Extensão Rural
+  - Mestrado em Física
+  - Mestrado em Física Aplicada
+  - Mestrado em Fisiologia Vegetal
+  - Mestrado em Fitopatologia
+  - Mestrado em Fitotecnia
+  - Mestrado em Genética e Melhoramento
+  - Mestrado em Geografia
+  - Mestrado em Letras
+  - Mestrado em Manejo e Conservação de Ecossistemas Naturais e Agrários
+  - Mestrado em Matemática
+  - Mestrado em Medicina Veterinária
+  - Mestrado em Meteorologia Agrícola
+  - Mestrado em Meteorologia Aplicada
+  - Mestrado em Microbiologia Agrícola
+  - Mestrado em Solos e Nutrição de Plantas
+  - Mestrado em Zootecnia
+  - Mestrado Multicêntrico em Química de Minas Gerais
+  - Mestrado Profissional em Administração Pública em Rede Nacional
+  - Mestrado Profissional em Ciências da Saúde
+  - Mestrado Profissional em Defesa Sanitária Vegetal
+  - Mestrado Profissional em Educação em Ciências e Matemática
+  - Mestrado Profissional em Ensino de Física
+  - Mestrado Profissional em Matemática em Rede Nacional
+  - Mestrado Profissional em Patrimônio Cultural, Paisagens e Cidadania
+  - Mestrado Profissional em Química em Rede Nacional
+  - Mestrado Profissional em Tecnologia de Celulose e Papel
+  - Mestrado Profissional em Zootecnia
+  - Mobilidade Acadêmica - Graduação
+  - Mobilidade Acadêmica - Pós-Graduação
+  - Mobilidade Acadêmica - Promover
+  - Mobilidade Acadêmica Pós-Graduação
+  - Nutrição
+  - Pedagogia
+  - Pesquisador Colaborador
+  - Pós-Doutorado
+  - Programa de Residência Médica
+  - Química
+  - Química - Licenciatura
+  - Secretariado Executivo Trilíngue, Português, Francês, Inglês
+  - Serviço Social
+  - Sistemas de Informação - Integral
+  - Sistemas de Informação - Noturno
+  - Tecnologia em Análise e Desenvolvimento de Sistemas
+  - Tecnologia em Gestão Ambiental
+  - Zootecnia
+
+Coluna: NivelAgrupado
+Total de valores únicos: 2
+Valores únicos:
+  - Graduação
+  - Pós-Graduação
+
+Coluna: AreaCurso
+Total de valores únicos: 5
+Valores únicos:
+  - Ciências Humanas, Letras e Artes
+  - Ciências Agrárias
+  - Ciências Exatas e Tenológicas
+  - Ciências Biológicas e da Saúde
+  - Não informado
+
+Coluna: Turno
+Total de valores únicos: 5
+Valores únicos:
+  - Noturno
+  - Integral
+  - Diurno
+  - Não informado
+  - EAD
+
+Coluna: SituacaoAluno
+Total de valores únicos: 29
+Valores únicos:
+  - Término
+  - Conclusão
+  - Desligamento
+  - Abandono
+  - Mudança de Curso
+  - Falecimento
+  - Normal
+  - Concluiu as exigências do curso (não colou grau)
+  - Trancamento
+  - Estudante em abandono do curso
+  - Transferência
+  - Concluinte (não colou grau)
+  - Exclusão
+  - Estudante em mobilidade
+  - Desligamento com processo aberto
+  - Afastamento Especial
+  - Anulação de Matrícula
+  - Matrícula Condicional/Reconsideração desligamento
+  - Matrícula Condicional/Reconsideração Desligamento
+  - Afastamento/Intercâmbio
+  - Concluindo (não colou grau)
+  - Afastamento/Reconsideração de Desligamento
+  - Concluinte (relatório não analisado)
+  - Situação Provisória
+  - Aguardando correções da Dissertação/Tese
+  - Matrícula Suspensa Temporariamente
+  - Afastamento
+  - Titulação cassada
+  - Habilitação
+
+Coluna: SituacaoAlunoAgrupada
+Total de valores únicos: 4
+Valores únicos:
+  - Evasão
+  - Conclusão
+  - Retenção
+  - Matriculado
+
+Coluna: Campus
+Total de valores únicos: 3
+Valores únicos:
+  - Rio Paranaíba
+  - Viçosa
+  - Florestal
+
